@@ -1,6 +1,0 @@
-# Mate Theme - Dokumentation
-
-
-
-
-

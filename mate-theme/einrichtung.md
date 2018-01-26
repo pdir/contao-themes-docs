@@ -16,13 +16,15 @@ JavaScript-Anpassungen können in der **theme.js** unter dem Pfad **mate/js** vo
 
 #### Elemente über ein eigenes Insert-Tag platzieren
 
-Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels einem Insert-Tag in anderen Artikeln eingebunden werden können. Beim jeweiligen **Artikel** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 1\). Zur Zeit kann man keine eigenen Tags definieren, sondern nur die bereits zur Verfügung stehenden nutzen. 
+Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels einem Insert-Tag in anderen Artikeln eingebunden werden können. Beim jeweiligen **Artikel** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\). Zur Zeit kann man keine eigenen Tags definieren, sondern nur die bereits zur Verfügung stehenden nutzen.
 
-Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Inhaltselement** in einem beliebigen Artikel platzieren: **`{{theme::content::MATE02/01}}`** \(siehe Bild 2\). Die entsprechenden Nummern sind im Titel des Artikels ersichtlich.
+Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Inhaltselement** in einem beliebigen Artikel platzieren: `{{theme::content::MATE02/01}}` \(siehe Bild 3\). Die entsprechenden Nummern sind im Titel des Artikels ersichtlich.
 
-###### Bild 1: Theme Helper Tag im Artikel auswählen![](/mate-theme/images/theme-helper-tag.png)
+###### Bild 1: Artikel unter MATE Elements![](/mate-theme/images/theme-helper.png)
 
-###### Bild 2: Artikel über den Theme Helper Tag einbinden![](/mate-theme/images/theme-helper-tag-einbinden.png)
+###### Bild 2: Theme Helper Tag im Artikel auswählen![](/mate-theme/images/theme-helper-tag.png)
+
+###### Bild 3: Artikel über den Theme Helper Tag einbinden![](/mate-theme/images/theme-helper-tag-einbinden.png)
 
 
 

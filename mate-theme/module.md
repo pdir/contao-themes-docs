@@ -38,6 +38,8 @@ Für eine einfache Eventliste ohne Bilder und Teasertext wird kein eigenes Templ
 
 Für die Navigationen gibt es einen eigenen Modultyp **Navbar**. In den Navbar-Einstellungen \(siehe Bild 1\) gibt es die Möglichkeit zwei verschiedene **Navbar-Typen** auszuwählen: **Navbar mit Dropdown** und **Linksbündig**. Beispielintegrationen finden Sie unter dem Menüpunkt Module - Navigation.
 
+###### Bild 1: Navbar-Einstellungen![](/mate-theme/images/navbar.png)
+
 **Dropdown-Navigation:**
 
 Das Suchicon und die mobile Navigation ist standardmäßig ausgeblendet, wenn die Navigation nicht im Header platziert wird.
@@ -56,7 +58,7 @@ Für den Modultyp Login-Formular muss das individuelle Template **mod\_login\_ma
 
 #### Formulare
 
-Für das Feld Dateiupload muss das individuelle Template **form\_mate\_upload**_ _ausgewählt werden.
+Für das Feld Dateiupload muss das individuelle Template **form\_mate\_upload**\_ \_ausgewählt werden.
 
 #### Suche
 

@@ -4,7 +4,7 @@
 
 # Module
 
-Alle Module sind bereits auf der Seite Module beispielhaft eingebunden.
+Alle Module sind bereits auf der Seite **Module** beispielhaft eingebunden.
 
 ## News
 

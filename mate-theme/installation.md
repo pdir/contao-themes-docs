@@ -30,7 +30,7 @@ Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend an und wählen 
 
 Melden Sie sich im **PHPMyAdmin** an und importieren die mitgelieferte SQL-Datei. Die SQL-Datei wird im Mate Theme Bundle mitgeliefert und ist unter folgendem Pfad zu finden: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**.
 
-  
+ 
 
 **Symlinks neu erstellen:**
 

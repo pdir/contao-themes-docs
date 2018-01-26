@@ -4,11 +4,11 @@
 
 # Installation
 
-## Voraussetzungen:
+### Voraussetzungen:
 
 Das Theme kann nur in einer **leeren Contao-Installation** installiert werden und ist mit **Contao 4.4.x** kompatibel.
 
-## Schritte:
+### Schritte:
 
 #### **Mate Theme Bundle installieren:**
 

@@ -1,4 +1,6 @@
 # ContaoThemes.net - Dokumentation
 
-[Mate Theme Dokumentation](/mate-theme/mate-theme.md)
+[MATE Theme Dokumentation](/mate-theme/installation.md)
+
+
 

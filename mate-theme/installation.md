@@ -16,7 +16,7 @@ Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-do
 
 ###### Bild 1: Mate Theme Bundle installieren ![](/mate-theme/images/bundle-installieren.png)
 
-######  
+###### 
 
 **Theme-Dateien synchronisieren:**
 
@@ -24,13 +24,13 @@ Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend an und wählen 
 
 ###### Bild 2: Theme-Dateien synchronisieren![](/mate-theme/images/dateien-synchronisieren.png)
 
-######  
+###### 
 
 **Datenbank importieren:**
 
 Melden Sie sich im **PHPMyAdmin** an und importieren die mitgelieferte SQL-Datei. Die SQL-Datei wird im Mate Theme Bundle mitgeliefert und ist unter folgendem Pfad zu finden: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**.
 
- 
+  
 
 **Symlinks neu erstellen:**
 

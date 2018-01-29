@@ -4,7 +4,7 @@
 
 # Inhaltselemente
 
-Alle Module sind bereits auf der Seite** Style Guide **beispielhaft eingebunden.
+Alle Module sind bereits auf der Seite** Elemente **beispielhaft eingebunden.
 
 ## Überschriften
 
@@ -45,6 +45,4 @@ Für die Teaser-Box muss der Elementtyp **Teaserbox** ausgewählt werden. Die Br
 Für das Headerbild muss der Elementtyp **Bild** sowie das Template **ce\_image\_mate\_headerimage** ausgewählt werden. Für ein schmaleres Headerbild muss dem Element die Klasse **smaller** gegeben werden. Der Bildausschnitt kann über das Festlegen des wichtigen Bereiches im Bild ausgewählt werden.
 
 Eine Beispielintegration für ein normales Headerbild finden Sie auf der Seite Layout mit linker Spalte. Eine Beispielintegration für ein schmales Headerbild finden Sie auf der Seite Layout mit rechter Spalte.
-
-
 

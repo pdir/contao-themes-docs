@@ -32,7 +32,7 @@ Für eine Eventliste ohne Bilder und mit einem Teasertext muss im Modul das Temp
 
 #### **Eventliste**
 
-Für eine einfache Eventliste ohne Bilder und Teasertext wird kein eigenes Template mitgeliefert. Im Modul der Detailansicht muss das Template **event\_mate\_full** ausgewählt werden.
+Für eine einfache Eventliste ohne Bilder und Teasertext muss im Modul das Template **event\_mate\_upcoming** ausgewählt werden. Im Modul der Detailansicht muss das Template **event\_mate\_full** ausgewählt werden.
 
 ## Navigation
 

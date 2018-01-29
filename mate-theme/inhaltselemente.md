@@ -20,7 +20,7 @@ Wenn dem Umschlag-Anfang-Element die Klasse **smaller** vergeben wird, wird der 
 
 #### Content-Slider mit Newsbeiträgen
 
-Bei einem Content-Slider mit Newsbeiträgen müssen beim Umschlag-Anfang und Umschlag-Ende Element die gleichen Templates ausgewählt werden wie beim contao-eigenen Content-Slider. Innerhalb des Umschlages wird ein Nachrichtenlisten-Modul platziert, bei welchem das Nachrichtentemplate **news\_mate\_slider**\_ und das individuelle Template **mod\_newslist\_mate\_slider** ausgewählt sein muss.
+Bei einem Content-Slider mit Newsbeiträgen müssen beim Umschlag-Anfang und Umschlag-Ende Element die gleichen Templates ausgewählt werden wie beim contao-eigenen Content-Slider. Innerhalb des Umschlages wird ein Nachrichtenlisten-Modul platziert, bei welchem das Nachrichtentemplate **news\_mate\_slider** und das individuelle Template **mod\_newslist\_mate\_slider** ausgewählt sein muss.
 
 ## Media-Elemente
 

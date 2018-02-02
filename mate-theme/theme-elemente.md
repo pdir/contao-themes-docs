@@ -42,3 +42,15 @@ Eine Beispielintegration für ein normales Headerbild finden Sie in der Demo-Sei
 
 ![](/mate-theme/images/mate-elemente/headerbild-schmal.jpg)
 
+## Einfache Inhaltsbox
+
+Man kann einem Element vom **Elementtyp Text** einen weißen Hintergrund mit etwas Abstand geben, indem man dem Element das individuelle Template **ce\_text\_simplebox\_mate** vergibt.
+
+![](/mate-theme/images/mate-elemente/simple-box.jpg)
+
+## Newsletter-Box
+
+Im Footer ist es möglich einen Bereich für die Newsletter-Anmeldung zu integrieren. Die Newsletter-Box ist im **Modul Footer** über den Insert-Tag `{{theme::content::MATE02/01}}` eingebunden. Das Modul dazu ist in einem Artikel unter **MATE Elements - Moduls - 02/02 newsletter** eingebunden. Damit das CSS geladen wird, muss der Artikel die ID **newsletter** besitzen.
+
+![](/mate-theme/images/mate-elemente/newsletter-box.jpg)
+

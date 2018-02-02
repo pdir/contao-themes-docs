@@ -16,9 +16,11 @@ JavaScript-Anpassungen können in der **theme.js** unter dem Pfad **mate/js** vo
 
 ## Elemente über ein eigenes Insert-Tag platzieren
 
-Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels einem Insert-Tag in anderen Artikeln eingebunden werden können. Beim jeweiligen **Artikel** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\). Zur Zeit kann man keine eigenen Tags definieren, sondern nur die bereits zur Verfügung stehenden nutzen.
+Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels einem Insert-Tag an jeder anderen beliebigen Stelle eingebunden werden können. In den Artikel-Einstellungen des jeweiligen **Artikel** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\). 
 
-Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Inhaltselement** in einem beliebigen Artikel platzieren: `{{theme::content::MATE02/01}}` \(siehe Bild 3\). Die entsprechenden Nummern sind im Titel des Artikels ersichtlich.
+Es ist nicht möglich neue Theme Helper Tags anzulegen. Das Theme bringt allerdings jeweils 10 Theme Helper Tags für Header, Moduls und Footer mit, die man für neu angelegte Artikel nutzen kann.
+
+Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Element** oder einem **Template** platzieren: z. B.  `{{theme::content::MATE02/01}}` \(siehe Bild 3\). Die erste Nummer bezeichnet den Typ \(Header, Moduls oder Footer\). Die zweite Nummer entspricht der Nummer des Theme Helper Tags im Artikel.
 
 ###### Bild 1: Artikel unter MATE Elements![](/mate-theme/images/theme-helper.png)
 
@@ -26,5 +28,13 @@ Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Inhaltsel
 
 ###### Bild 3: Artikel über den Theme Helper Tag einbinden![](/mate-theme/images/theme-helper-tag-einbinden.png)
 
+## Header anpassen
 
+Die Inhalte des Headers liegen in den Artikeln unter **MATE Elements - 01 Header**. Die Öffnungszeiten, Telefonnummer und E-Mail sowie die dazugehörigen Icons sind im Modul **Header / Top** eingebunden. Das Logo, die Navigation und die Suche werden über das Modul **Navigation / Hauptnavigation** geladen.
+
+Das Logo kann im Artikel **01/04 Logo** ausgetauscht werden. Es sind hier zwei Logos eingebunden, wobei das zweite Logo dann erscheint, wenn man in der Seite nach unten scrollt und die Navigation einen grünen Hintergrund bekommt. Das zweite Logo muss die Klasse **fixed-nav** bekommen.
+
+## Footer anpassen
+
+Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](/mate-theme/theme-elemente.md)\) im Modul **Footer**.
 

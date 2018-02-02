@@ -12,13 +12,19 @@ Alle Module sind bereits auf der Seite **Module** beispielhaft eingebunden.
 
 Für News mit Bildern und einem Teasertext muss im Modul das Template **news\_mate\_latest** sowie die Bildgröße N**ews-Box \(520x350\)** ausgewählt werden. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
 
+![](/mate-theme/module/news-mit-bildern-und-teasertext.png)
+
 #### **News ohne Bilder und mit Teaser**
 
 Für News ohne Bilder und mit einem Teasertext muss im Modul das Template **news\_mate\_short** ausgewählt werden. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
 
+![](/mate-theme/module/news-mit-teasertext.png)
+
 #### **Einfache Newsliste**
 
 Für eine einfache Newsliste ohne Bilder und Teasertext wird kein eigenes Template mitgeliefert. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
+
+![](/mate-theme/module/news-simple.png)
 
 ## Events
 

@@ -12,7 +12,7 @@ Im News-Slider ist es möglich Newsbeiträge in einem Slider darzustellen. Der S
 
 Sie benötigen dafür keine Content-Slider Umschlag-Elemente, sondern müssen lediglich ein Modul vom Typ **Nachrichtenliste** einbinden. Beim Nachrichtentemplate muss **news\_mate\_slider** sowie beim individuellen Template **mod\_newslist\_mate\_slider** ausgewählt werden. Die Gesamtanzahl der Beiträge ist variabel auswählbar.
 
-Das Bild können Sie jeweils in den Beitragseinstellungen des Newsbeitrages auswählen.
+Das Bild sowie die Teasertexte können Sie jeweils in den Beitragseinstellungen des Newsbeitrages auswählen.
 
 ## Content-Box
 

@@ -8,6 +8,7 @@
 * [Einrichtung](mate-theme/einrichtung.md)
 * [Layouts](mate-theme/layouts.md)
 * [Module](mate-theme/module.md)
-* [Inhaltselemente](mate-theme/inhaltselemente.md)
+* [Contao-Elemente](mate-theme/inhaltselemente.md)
+* [Theme-Elemente](mate-theme/theme-elemente.md)
 * [Andere Erweiterungen](mate-theme/andere-erweiterungen.md)
 

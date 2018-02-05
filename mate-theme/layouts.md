@@ -4,7 +4,7 @@
 
 # Layouts
 
-Unter **Themes - Seitenlayouts** sind bereits alle möglichen Layouts angelegt. Beispielintegrationen finden sich unter der Seite Layouts.
+Unter **Themes - Seitenlayouts** sind bereits alle möglichen Layouts angelegt. Beispielintegrationen finden sich unter der Seite Layouts. Das entsprechende Layout kann in der Seite bei Layout-Einstellungen ausgewählt werden.
 
 ## Einspaltiges Layout
 

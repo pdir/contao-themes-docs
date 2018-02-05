@@ -8,7 +8,7 @@ Unter **Themes - Seitenlayouts** sind bereits alle möglichen Layouts angelegt. 
 
 ## Einspaltiges Layout
 
-Für das einspaltige Layout muss das Seitentemplate **fe\_page\_mate **ausgewählt sowie die Body-Klasse **default-col** angegeben werden.
+Für das einspaltige Layout muss das Seitentemplate **fe\_page\_mate **ausgewählt sowie die Body-Klasse **default-col** angegeben werden. Das Seitentemplate und die Body-Klasse kann man im Seitenlayout unter Experten-Einstellungen auswählen. 
 
 ## Layout mit linker Spalte
 

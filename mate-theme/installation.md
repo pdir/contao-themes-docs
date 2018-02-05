@@ -24,9 +24,19 @@ Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend an und wählen 
 
 #### **Datenbank importieren:**
 
-Melden Sie sich im **PHPMyAdmin** an und importieren die mitgelieferte SQL-Datei. Die SQL-Datei wird im Mate Theme Bundle mitgeliefert und ist unter folgendem Pfad zu finden: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**.
+Melden Sie sich im **PHPMyAdmin** an und leeren Sie zuerst nur die Tabelle **tl\_files**. Dies ist notwendig, da sonst der Import der SQL-Datei und die Verknüpfungen der Bilder nicht mehr funktionieren.
+
+Anschließend importieren Sie die mitgelieferte SQL-Datei. Die SQL-Datei wird im Mate Theme Bundle mitgeliefert und ist unter folgendem Pfad zu finden: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**.
 
 #### **Symlinks neu erstellen:**
 
 Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **Systemwartung** aus und erstellen die Symlinks neu, indem Sie die Checkbox bei **Symlinks neu erstellen** auswählen und anschließend den Button **Daten bereinigen** betätigen.
+
+#### Frontend-Einstellungen:
+
+In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** deaktivieren und **Ordner-URLs verwenden** aktivieren \(siehe Bild 3\).
+
+###### Bild 3: Frontend-Einstellungen![](/mate-theme/images/einstellungen.png)
+
+
 

@@ -56,7 +56,7 @@ Unter **Themes** und **Manage grid definitions** \(das vorletzte Icon\) wurde ei
 
 ## Icons
 
-Um Icons zu verwenden, geben Sie dem Element einfach die **material-icons** Klasse und vergeben Sie den **Icon Namen** als Inhalt. Alle Icons und die dazugehörigen Namen finden Sie entweder auf der [Material Design Webseite](https://material.io/icons/) oder im Theme unter Elemente und Icons.
+Um Icons zu verwenden, geben Sie dem Element einfach die **material-icons** Klasse und den **Icon Namen** als Inhalt. Alle Icons und die dazugehörigen Namen finden Sie entweder auf der [Material Design Webseite](https://material.io/icons/) oder im Theme unter Elemente und Icons.
 
 **Zum Beispiel:**
 

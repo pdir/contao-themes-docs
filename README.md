@@ -4,7 +4,7 @@
 
 ![](/mate-theme/images/mate_logo.png)
 
-#### [Dokumentation](#mate-theme---exhilarating-contao-theme)
+#### [Dokumentation](/mate-theme/installation.md)
 
 #### [Demo](https://mate.contao-themes.net/)
 

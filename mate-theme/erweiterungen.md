@@ -28,5 +28,5 @@ Sie können den Stream einspaltig, zweispaltig oder dreispaltig einbinden. Für 
 
 **Dreispaltiger Social Media Stream**
 
-![](/mate-theme/images/mate-elemente/social-feed-dreispaltig.jpg)
+![](/mate-theme/images/mate-elemente/social-feed-dreispaltig.png)
 

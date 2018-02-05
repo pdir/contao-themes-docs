@@ -18,7 +18,7 @@ Das Bild sowie die Teasertexte können Sie jeweils in den Beitragseinstellungen 
 
 ## Content-Box
 
-Für die Content-Box muss der Elementtyp **Content-Box** ausgewählt werden. Die Hintergrundfarbe kann geändert werden, indem man dem Element Klassen vergibt \(z. B. "grey lighten-3", für mehr Informationen siehe folgenden Abschnitt Farben\) oder man das CSS \(custom.scss\) anpasst.
+Für die Content-Box muss der Elementtyp **Content-Box** ausgewählt werden. Die Hintergrundfarbe kann geändert werden, indem man dem Element Klassen vergibt \(z. B. "grey lighten-3", für mehr Informationen siehe Abschnitt [Farben](/mate-theme/materialize.md)\) oder man das CSS \(custom.scss\) anpasst.
 
 ![](/mate-theme/images/mate-elemente/content-box.jpg)
 

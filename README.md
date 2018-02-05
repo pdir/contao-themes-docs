@@ -2,9 +2,7 @@
 
 ---
 
-## Mate Theme - Exhilarating Contao Theme
-
-![](/mate-theme/mate_logo.png)
+![](/mate-theme/images/mate_logo.png)
 
 #### [Dokumentation](#mate-theme---exhilarating-contao-theme)
 

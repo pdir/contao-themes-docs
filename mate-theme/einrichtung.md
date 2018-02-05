@@ -6,13 +6,13 @@
 
 ## CSS-Anpassungen
 
-Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)-Dateien in der Dateiverwaltung unter dem Pfad **mate/sass**. Für individuelle Anpassungen benennen Sie die **custom.scss.example** in **custom.scss** sowie die** \_custom\_variables.scss.example** in **\_custom\_variables.scss** um.
+Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)-Dateien in der Dateiverwaltung unter dem Pfad **mate/sass**. Für individuelle Anpassungen nutzen Sie einfach die **custom.scss** sowie die** \_custom\_variables.scss**.
 
-In der \_custom\_variables.scss können Sie Farben und Schriften über Variabeln festlegen und diese in der custom.scss verwenden. Alle anderen scss- und css-Dateien sollten nicht bearbeitet werden.
+In der \_custom\_variables.scss können Sie Farben und Schriften über Variabeln festlegen und diese in der custom.scss verwenden.
 
 ## JavaScript-Anpassungen
 
-JavaScript-Anpassungen können in der **theme.js** unter dem Pfad **mate/js** vorgenommen werden.
+Für eigenes JavaScript legen Sie sich bitte eine eigene Datei an und binden diese im Theme ein.
 
 ## Elemente über ein eigenes Insert-Tag platzieren
 

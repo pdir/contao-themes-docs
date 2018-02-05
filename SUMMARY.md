@@ -6,6 +6,7 @@
 
 * [Installation](mate-theme/installation.md)
 * [Einrichtung](mate-theme/einrichtung.md)
+* [Materialize](mate-theme/materialize.md)
 * [Layouts](mate-theme/layouts.md)
 * [Module](mate-theme/module.md)
 * [Contao-Elemente](mate-theme/inhaltselemente.md)

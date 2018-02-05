@@ -22,6 +22,8 @@ Wenn ein Inhaltselement mit einer Überschrift die Klasse **bordered-left** oder
 
 Wenn ein Link wie ein Button \(weiße Schrift auf grünen Hintergrund\) aussehen soll, müssen Sie dem Link die Klasse **btn** geben.
 
+![](/mate-theme/images/contao-elemente/button.png)
+
 ## Content-Slider
 
 #### **Contao-eigener Content-Slider**

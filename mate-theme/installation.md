@@ -18,7 +18,7 @@ Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-do
 
 #### **Theme-Dateien synchronisieren:**
 
-Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend an und wählen Sie in der linken Navigation unter **MATE THEME** den Menüpunkt **Mate Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren** \(siehe Bild 2\). Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner mate angelegt.
+Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen Sie in der linken Navigation unter **MATE THEME** den Menüpunkt **Mate Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren** \(siehe Bild 2\). Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner mate angelegt.
 
 ###### Bild 2: Theme-Dateien synchronisieren![](/mate-theme/images/dateien-synchronisieren.png)
 
@@ -38,5 +38,5 @@ In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item**
 
 ###### Bild 3: Frontend-Einstellungen![](/mate-theme/images/einstellungen.png)
 
-
+Damit ist die Installation des Themes fertig und Sie können mit der [Einrichtung](/mate-theme/einrichtung.md) beginnen.
 

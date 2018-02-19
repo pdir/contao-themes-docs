@@ -4,6 +4,7 @@
 
 ## Mate Theme
 
+* [Lizenz](mate-theme/lizenz.md)
 * [Installation](mate-theme/installation.md)
 * [Einrichtung](mate-theme/einrichtung.md)
 * [Materialize](mate-theme/materialize.md)

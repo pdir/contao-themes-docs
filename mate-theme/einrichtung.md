@@ -16,11 +16,11 @@ Für eigenes JavaScript legen Sie sich bitte eine eigene Datei an und binden die
 
 ## Elemente über ein eigenes Insert-Tag platzieren
 
-Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels einem Insert-Tag an jeder anderen beliebigen Stelle eingebunden werden können. In den Artikel-Einstellungen des jeweiligen **Artikel** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\).
+Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels eines Insert-Tags an jeder beliebigen Stelle der Webseite eingebunden werden können. In den Artikel-Einstellungen des jeweiligen **Artikels** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\).
 
-Es ist nicht möglich neue Theme Helper Tags anzulegen. Das Theme bringt allerdings jeweils 10 Theme Helper Tags für Header, Moduls und Footer mit, die man für neu angelegte Artikel nutzen kann.
+Es ist nicht möglich neue Theme Helper Tags anzulegen. Das Theme bringt allerdings jeweils 10 Theme Helper Tags für Header, Modules und Footer mit, die man für neu angelegte Artikel nutzen kann.
 
-Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Element** oder einem **Template** platzieren: z. B.  `{{theme::content::MATE02/01}}` \(siehe Bild 3\). Die erste Nummer bezeichnet den Typ \(Header, Moduls oder Footer\). Die zweite Nummer entspricht der Nummer des Theme Helper Tags im Artikel.
+Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Element** oder einem **Template** platzieren: z. B.  `{{theme::content::MATE02/01}}` \(siehe Bild 3\). Die erste Nummer bezeichnet den Typ \(Header, Modules oder Footer\). Die zweite Nummer entspricht der Nummer des Theme Helper Tags im Artikel.
 
 ###### Bild 1: Artikel unter MATE Elements![](/mate-theme/images/theme-helper.png)
 

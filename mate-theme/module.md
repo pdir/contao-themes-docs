@@ -54,13 +54,13 @@ Für die Navigationen gibt es einen eigenen Modultyp **Navbar**. In den Navbar-E
 
 #### **Dropdown-Navigation**
 
-Das Suchicon und die mobile Navigation ist standardmäßig ausgeblendet, wenn die Navigation nicht im Header platziert wird. Als Navigations-Template wird **mod\_mate\_navbar** verwendet.
+Das Icon für die Suche und die mobile Navigation sind standardmäßig ausgeblendet, wenn die Navigation nicht im Header platziert wird. Als Navigations-Template wird **mod\_mate\_navbar** verwendet.
 
 ![](/mate-theme/images/module/navigation-dropdown.png)
 
 #### **Linksbündige Navigation**
 
-Die linksbündige Navigation kann nur eine Navigationsebene darstellen. Das Suchicon und die mobile Navigation wird ebenfalls standardmäßig ausgeblendet, wenn die Navigation nicht im Header platziert wird. Als Navigations-Template wird **mod\_mate\_navbar\_left** verwendet.
+Die linksbündige Navigation kann nur eine Navigationsebene darstellen. Das Icon für die Suche und die mobile Navigation sind ebenfalls standardmäßig ausgeblendet, wenn die Navigation nicht im Header platziert wird. Als Navigations-Template wird **mod\_mate\_navbar\_left** verwendet.
 
 ![](/mate-theme/images/module/navigation-linksbuendig.png)
 

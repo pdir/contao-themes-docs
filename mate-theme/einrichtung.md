@@ -10,8 +10,6 @@ Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://s
 
 In der \_custom\_variables.scss können Sie Farben und Schriften über Variabeln festlegen und diese in der custom.scss verwenden.
 
-**Interne Stylesheets verwenden:**
-
 Wenn Sie lieber mit CSS-Dateien statt mit SCSS-Dateien arbeiten wollen, können Sie über **Themes - Stylesheets** einen neuen Stylesheet anlegen und ihn im **Layout** bei **Interne Stylesheets** einbinden. Das CSS wird anschließend automatisch nach dem CSS des Mate Theme geladen.
 
 ## JavaScript-Anpassungen

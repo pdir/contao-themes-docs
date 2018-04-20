@@ -6,7 +6,7 @@
 
 ## Voraussetzungen:
 
-Das Theme kann nur in einer **leeren Contao-Installation** installiert werden und ist mit **Contao 4.4.x** kompatibel.
+Das Theme kann nur in einer **leeren Contao-Installation** installiert werden und ist mit **Contao 4.4.x oder höher** kompatibel.
 
 ## Schritte:
 
@@ -26,7 +26,7 @@ Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen
 
 Melden Sie sich im **PHPMyAdmin** an und leeren Sie zuerst nur die Tabelle **tl\_files**. Dies ist notwendig, da sonst der Import der SQL-Datei und die Verknüpfungen der Bilder nicht mehr funktionieren.
 
-Anschließend importieren Sie die mitgelieferte SQL-Datei. Die SQL-Datei wird im Mate Theme Bundle mitgeliefert und ist unter folgendem Pfad zu finden: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**.
+Anschließend importieren Sie die mitgelieferte SQL-Datei. Die SQL-Datei wird im Mate Theme Bundle mitgeliefert und ist unter folgendem Pfad zu finden: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**. Es existiert eine SQL-Datei für Contao 4.4.x und für 4.5.x.
 
 #### **Symlinks neu erstellen:**
 

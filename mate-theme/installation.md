@@ -32,7 +32,7 @@ Anschließend importieren Sie die mitgelieferte SQL-Datei. Die SQL-Datei wird im
 
 Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **Systemwartung** aus und erstellen die Symlinks neu, indem Sie die Checkbox bei **Symlinks neu erstellen** auswählen und anschließend den Button **Daten bereinigen** betätigen.
 
-#### Frontend-Einstellungen:
+#### Einstellungen:
 
 In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** deaktivieren und **Ordner-URLs verwenden** aktivieren \(siehe Bild 3\).
 

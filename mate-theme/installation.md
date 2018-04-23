@@ -38,7 +38,7 @@ In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item**
 
 ###### Bild 3: Frontend-Einstellungen![](/mate-theme/images/einstellungen.png)
 
-Unter Erweiterte CSS-Einstellungen müssen SIe noch das Klassen-Set materialize.json auswählen \(siehe Bild 4\).
+Unter **Erweiterte CSS-Einstellungen** müssen SIe noch das Klassen-Set **materialize.json** auswählen \(siehe Bild 4\).
 
 ###### Bild 4: Erweiterte CSS-Einstellungen
 

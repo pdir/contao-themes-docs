@@ -14,9 +14,7 @@ Auf der Kontakt-Seite ist neben dem Kontakt-Formular ein Platzhalter-Bild platzi
 
 Mit der Social Feed Bundle können Sie Beiträge von Facebook und Google+ \(demnächst auch mehr wie Instagram, Twitter, etc.\) im Mate Theme anzeigen lassen. Installieren Sie dafür einfach über den Contao Manager das Paket mit dem Namen **pdir/social-feed-bundle**.
 
-Sie können den Social Feed Stream als Modul oder als Content-Element einbinden. Wählen Sie dafür einfach den Modultyp **Social Feed Listenansicht** aus. Eine ausführliche Dokumentation folgt noch.
-
-Sie können den Stream einspaltig, zweispaltig oder dreispaltig einbinden. Für eine zweispaltige Liste vergeben Sie dem Modul bzw. dem Element die Klasse **col-2**, für eine dreispaltige Liste die Klasse **col-3**. Das Styling, wie auf den folgenden Bildern, bringt das Mate Theme bereits mit.
+Eine Anleitung wie Sie den Facebook-Stream einrichten, finden Sie auf folgender Seite: https://docs.pdir.de/social-feed/einrichtung-facebook-stream.html.
 
 **Einspaltiger Social Media Stream \(beispielhafte Einbindung in linker Spalte\)**
 

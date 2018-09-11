@@ -18,7 +18,7 @@ Für eigenes JavaScript legen Sie sich bitte eine eigene Datei an und binden die
 
 ## Elemente über ein eigenes Insert-Tag platzieren
 
-Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels eines Insert-Tags an jeder beliebigen Stelle der Webseite eingebunden werden können. In den Artikel-Einstellungen des jeweiligen **Artikels** wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\).
+Unter der Seite **MATE-Elements** befinden sich Artikel, die mittels eines Insert-Tags an jeder beliebigen Stelle der Webseite eingebunden werden können. Zu den Artikeln gelangen Sie, indem Sie im linken Menü auf Artikel klicken und ganz nach unten scrollen. In den Artikel-Einstellungen des jeweiligen **Artikels **\(Werkzeug-Icon\) wählt man dafür unter **Template-Einstellungen** den passenden **Theme Helper Tag** aus \(siehe Bild 2\).
 
 Es ist nicht möglich neue Theme Helper Tags anzulegen. Das Theme bringt allerdings jeweils 10 Theme Helper Tags für Header, Modules und Footer mit, die man für neu angelegte Artikel nutzen kann.
 
@@ -32,11 +32,11 @@ Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Element**
 
 ## Header anpassen
 
-Die Inhalte des Headers liegen in den Artikeln unter **MATE Elements - 01 Header**. Die Öffnungszeiten, Telefonnummer und E-Mail sowie die dazugehörigen Icons sind im Modul **Header / Top** eingebunden. Das Logo, die Navigation und die Suche werden über das Modul **Navigation / Hauptnavigation** geladen.
+Die Inhalte des Headers liegen in den Artikeln unter **MATE Elements - 01 Header**. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Die Öffnungszeiten, Telefonnummer und E-Mail sowie die dazugehörigen Icons sind im Modul **Header / Top** eingebunden. Das Logo, die Navigation und die Suche werden über das Modul **Navigation / Hauptnavigation** geladen.
 
-Das Logo kann im Artikel **01/04 Logo** ausgetauscht werden. Es sind hier zwei Logos eingebunden, wobei das zweite Logo dann erscheint, wenn man in der Seite nach unten scrollt und die Navigation einen grünen Hintergrund bekommt. Das zweite Logo muss die Klasse **fixed-nav** bekommen.
+Das Logo kann im Artikel **01/04 Logo** ausgetauscht werden. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Es sind hier zwei Logos eingebunden, wobei das zweite Logo dann erscheint, wenn man in der Seite nach unten scrollt und die Navigation einen grünen Hintergrund bekommt. Das zweite Logo muss die Klasse **fixed-nav** bekommen.
 
 ## Footer anpassen
 
-Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](/mate-theme/theme-elemente.md)\) im Modul **Footer**.
+Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](/mate-theme/theme-elemente.md)\) im Modul **Footer**.
 

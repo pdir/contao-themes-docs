@@ -26,21 +26,17 @@ Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den B
 
 #### **Datenbank importieren:**
 
-**Für Contao 4.5.x und 4.6.x:**
-
-Verbinden Sie sich per FTP mit Ihrem Server und navigieren Sie zu dem Pfad **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**. Dort finden Sie jeweils eine SQL-Datei für Contao 4.5 und 4.6. Die benötigte Datei kopieren Sie nun in den templates-Ordner und rufen anschließend das Install-Tool auf.
+Verbinden Sie sich per FTP mit Ihrem Server und navigieren Sie zu dem Pfad **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**. Dort finden Sie jeweils eine SQL-Datei für Contao 4.4, 4.5 und 4.6. Die benötigte Datei kopieren Sie nun in den templates-Ordner und rufen anschließend das Install-Tool auf.
 
 Unter dem Reiter **Ein Template importieren **\(siehe folgender Screenshot\) können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf Ein Template importieren.
 
 Wenn die Datenbank erfolgreich importiert wurde, sollten Sie eine Meldung, dass ein Template importiert wurde, wie im folgenden Screenshot, erhalten.
 
+Alternativ können Sie die sql-Datei auch über phpMyAdmin importieren.
+
 ###### Bild 3: Ein Template importieren
 
 ![](/mate-theme/images/template_importieren.png)
-
-**Für Contao 4.4.x:**
-
-Melden Sie sich im **PHPMyAdmin** an und importieren Sie die mitgelieferte SQL-Datei **mate\_theme\_contao\_demo\_4.4.x.sql**, die im Mate Theme Bundle mitgeliefert wird und unter folgendem Pfad zu finden ist: **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**.
 
 #### **Symlinks neu erstellen:**
 

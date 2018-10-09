@@ -49,6 +49,12 @@ Für ein links ausgerichtetes Headerbild geben Sie dem Element einfach die Klass
 
 ![](/mate-theme/images/mate-elemente/headerimage_left.png)
 
+**Rechts ausgerichtetes Headerbild:**
+
+Für ein rechts ausgerichtetes Headerbild geben Sie dem Element einfach die Klasse **right**.
+
+![](/mate-theme/images/mate-elemente/headerimage_right.png)
+
 ## Einfache Inhaltsbox
 
 Man kann einem Element vom **Elementtyp Text** einen weißen Hintergrund mit etwas Abstand geben, indem man dem Element das individuelle Template **ce\_text\_simplebox\_mate** vergibt.

@@ -30,7 +30,7 @@ Für die Teaser-Box muss der Elementtyp **Teaserbox** ausgewählt werden. Die Br
 
 ## Headerbild
 
-Für das Headerbild muss der Elementtyp **Bild** sowie das Template **ce\_image\_mate\_headerimage** ausgewählt werden. Für ein schmaleres Headerbild muss dem Element die Klasse **smaller** gegeben werden. Der Bildausschnitt kann über das Festlegen des wichtigen Bereiches im Bild ausgewählt werden.
+Für das Headerbild muss der Elementtyp **Bild** sowie das Template **ce\_image\_mate\_headerimage** ausgewählt werden. Der Bildausschnitt kann über das Festlegen des wichtigen Bereiches im Bild ausgewählt werden.
 
 Eine Beispielintegration für ein normales Headerbild finden Sie in der Demo-Seite auf den Layout-Seiten. Eine Beispielintegration für ein schmales Headerbild finden Sie auf der Seite Kontakt.
 
@@ -40,7 +40,14 @@ Eine Beispielintegration für ein normales Headerbild finden Sie in der Demo-Sei
 
 **Schmales Headerbild:**
 
+Für ein schmaleres Headerbild muss dem Element die Klasse **smaller** gegeben werden.  
 ![](/mate-theme/images/mate-elemente/headerbild-schmal.jpg)
+
+**Links ausgerichtetes Headerbild:**
+
+Für ein links ausgerichtetes Headerbild geben Sie dem Element einfach die Klasse **left**.
+
+![](/mate-theme/images/mate-elemente/headerimage_left.png)
 
 ## Einfache Inhaltsbox
 

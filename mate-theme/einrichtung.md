@@ -6,11 +6,7 @@
 
 ## CSS-Anpassungen
 
-Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)-Dateien in der Dateiverwaltung unter dem Pfad **mate/sass**. Für individuelle Anpassungen nutzen Sie einfach die **custom.scss** sowie die** \_custom\_variables.scss**.
-
-In der \_custom\_variables.scss können Sie Farben und Schriften über Variabeln festlegen und diese in der custom.scss verwenden.
-
-Wenn Sie lieber mit CSS-Dateien statt mit SCSS-Dateien arbeiten wollen, können Sie über **Themes - Stylesheets** einen neuen Stylesheet anlegen und ihn im **Layout** bei **Interne Stylesheets** einbinden. Das CSS wird anschließend automatisch nach dem CSS des Mate Theme geladen.
+Wie Sie Farben und Schriften sowie eigenes CSS definieren können, ist auf der Seite [Farben und Schriften](/mate-theme/farben-und-schriften.md) erklärt.
 
 ## JavaScript-Anpassungen
 

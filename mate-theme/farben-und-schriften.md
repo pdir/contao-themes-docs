@@ -12,7 +12,7 @@ Wenn Sie lieber mit CSS-Dateien statt mit SCSS-Dateien arbeiten wollen, können 
 
 ## Farbschemen
 
-Das MATE Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Es gibt die Möglichkeit das Theme auf ein dunkles \(dark\), blaues \(blue\) oder gelbes Layout \(yellow\) umzustellen.
+Das MATE Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Ab der Version 1.4.0 gibt es die Möglichkeit das Theme auf ein dunkles \(dark\), blaues \(blue\) oder gelbes Layout \(yellow\) umzustellen.
 
 Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_colors.scss** die entsprechende Zeile bei **Colour Schemes** aus \(Schrägstriche entfernen\).
 

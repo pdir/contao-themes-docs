@@ -16,13 +16,7 @@ Das MATE Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Es gi
 
 Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_colors.scss** die entsprechende Zeile bei **Colour Schemes** aus \(Schrägstriche entfernen\).
 
-## Erklärungen zu den Variablen
-
-#### Schriften:
-
-**$font1: **Haupt-Schriftart  
-**$font2:** Überschriften für h1, News und Events  
-**$font3: **Überschriften für h2, h3, h4, h5 und h6
+## Variablen der \_custom\_colors.scss
 
 #### Grundfarben:
 
@@ -31,12 +25,12 @@ Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_co
 **$mateColor3:** Hauptfarbe dunkle Abstufung  
 **$mateColor4:** Sekundärfarbe  
 **$mateColor6:** Sekundärfarbe helle Abstufung  
+  
 **$mateColorWhite:** Weiß  
 **$mateColorBlack:** Schwarz  
-**$pageBackground:** Hintergrund der Webseite
-
-**$primary-color: **Hauptfarbe \(standardmäßig $mateColor2\)  
-**$secondary-color:** Sekundärfarbe \(standardmäßig $mateColor3\)
+**$mateColorGreyLight:** Hellgrau  
+**$mateColorGreyDark:** Dunkelgrau  
+**$pageBackground:** Hintergrundfarbe der Webseite
 
 #### Textfarben:
 
@@ -45,16 +39,11 @@ Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_co
 
 #### Boxen:
 
-**$boxes-background:** Hintergrund der Boxen \(z. B. Contentbox, Teaserbox, News, Events, Login, Newsletter, etc.\)  
+**$boxes-background:** Hintergrundfarbe der Boxen \(z. B. Contentbox, Teaserbox, News, Events, Login, Newsletter, etc.\)  
 **$boxes-text-color:** Schriftfarbe der Boxen \(z. B. Contentbox, Teaserbox, News, Events, Login, Newsletter, etc.\)
 
----
+#### Content Box:
 
-#### Akkordion:
-
-**$accordion-headline-background:** Hintergrund der Überschrift  
-**$accordion-headline-color:** Schriftfarbe der Überschrift  
-**$accordion-content-background:** Hintergrund des Inhalts  
-**$accordion-content-color:** Schriftfarbe des Inhalts  
-**$accordion-border-color:** Rahmenfarbe
+**$contentbox-first-background:** Hintergrundfarbe der ersten Content-Box  
+**$contentbox-second-background:** Hintergrundfarbe der zweiten Content-Box
 

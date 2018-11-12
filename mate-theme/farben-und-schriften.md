@@ -16,7 +16,7 @@ Das MATE Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Ab de
 
 Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_colors.scss** die entsprechende Zeile bei **Colour Schemes** aus \(Schrägstriche entfernen\).
 
-[![](/mate-theme/images/color_schemes/MATE_theme_colorschemes.jpg)](/mate-theme/images/color_schemes/MATE_theme_colorschemes.pdf "MATE Colour Schemes als PDF")
+![](/mate-theme/images/color_schemes/MATE_theme_colorschemes.jpg)
 
 ## Variablen der \_custom\_colors.scss
 

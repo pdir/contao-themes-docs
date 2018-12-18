@@ -2,9 +2,15 @@
 
 ---
 
-# Erweiterungen
+# Andere Erweiterungen
 
-## Google Maps Karte
+## Tabcontrol
+
+Wenn die [Tabcontrol](https://christianbarkowsky.de/tabcontrol-contao.html)-Erweiterung von Christian Barkowsky eingesetzt wird und zu einem Tab verlinkt werden soll, kann man dies über Anker lösen. z. B. _www.example.org/page.html\#tabControl\_tabname_. Wichtig ist, dass die ID immer mit **tabControl\_** beginnt, ansonsten versucht das MATE Theme zum Anker auf der gleichen Seite zu scrollen. Zudem muss im Panel die entsprechende ID vergeben werden.
+
+![](/mate-theme/images/tabcontrol_anchor.png)
+
+## Google Maps
 
 Wenn Sie eine Google Maps Karte einbinden möchten, installieren Sie über den Contao Manager das Paket **delahaye/dlh\_googlemaps**.
 

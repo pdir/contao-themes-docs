@@ -13,5 +13,5 @@
 * [Module](mate-theme/module.md)
 * [Contao-Elemente](mate-theme/inhaltselemente.md)
 * [Theme-Elemente](mate-theme/theme-elemente.md)
-* [Erweiterungen](mate-theme/erweiterungen.md)
+* [Andere Erweiterungen](mate-theme/erweiterungen.md)
 

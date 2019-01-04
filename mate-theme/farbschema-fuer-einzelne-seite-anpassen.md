@@ -10,7 +10,7 @@ Wenn Sie das Farbschema nur für bestimmte Seiten anpassen möchten, z. B. einer
 
 ### 1. neues Template fe\_page\_mate anlegen
 
-Sie müssen das Template fe\_page\_mate anpassen. Klicken Sie auf **Neues Template**, wählen das Original-Template **fe\_page\_mate.html5** aus und erstellen dieses. Benennen Sie dieses Template um, z. B. in:  fe\_page\_mate\_custom.html5. 
+Sie müssen das Template fe\_page\_mate anpassen. Klicken Sie auf **Neues Template**, wählen das Original-Template **fe\_page\_mate.html5** aus und erstellen dieses. Benennen Sie dieses Template um, z. B. in:  fe\_page\_mate\_custom.html5.
 
 Bearbeiten Sie dieses Template und passen folgende Zeilen wie folgt an \(Zeile 15-19\):
 
@@ -26,15 +26,15 @@ Dies bewirkt, dass die Datei mate\_custom.scss, statt der originalen mate.scss, 
 
 ### 2. neues Layout anlegen
 
-Navigieren Sie jetzt zu Themes / Seitenlayouts und duplizieren ein bestehendes Layout. Bei diesem Layout müssen Sie ganz unten bei Experten-Einstellungen das eben angelegte Template auswählen.
+Navigieren Sie jetzt zu Themes / Seitenlayouts und duplizieren ein bestehendes Layout. Bei diesem Layout müssen Sie ganz unten bei **Experten-Einstellungen** das eben angelegte **Template auswählen**.
 
-Außerdem müssen Sie in der Seitenstruktur bei der Seite, wo ein anderes Farbschema dargestellt werden soll, unter Layout-Einstellungen das neuangelegte Layout zuweisen.
+Außerdem müssen Sie in der Seitenstruktur bei der Seite, wo ein anderes Farbschema dargestellt werden soll, unter **Layout-Einstellungen** das neuangelegte **Layout zuweisen**.
 
 ### 3. Anlegen der SCSS-Dateien
 
 #### mate\_custom.scss anlegen:
 
-Sie müssen nun die **mate\_custom.scss** in der **Detailverwaltung** im Ordner **files/mate/sass** anlegen. Fügen Sie in diese Datei den kompletten Inhalt aus folgendem Link: [https://raw.githubusercontent.com/contao-themes-net/mate-theme-bundle/master/src/Resources/public/sass/mate.scss](https://raw.githubusercontent.com/contao-themes-net/mate-theme-bundle/master/src/Resources/public/sass/mate.scss).
+Sie müssen nun die **mate\_custom.scss** in der **Detailverwaltung** im Ordner **files/mate/sass** anlegen. Fügen Sie in diese Datei den kompletten Inhalt aus folgendem Link: [https://raw.githubusercontent.com/contao-themes-net/mate-theme-bundle/master/src/Resources/public/sass/mate.scss](https://raw.githubusercontent.com/contao-themes-net/mate-theme-bundle/master/src/Resources/public/sass/mate.scss) ein.
 
 Ein paar Zeilen müssen aber noch angepasst werden. Ersetzen Sie die ersten Zeilen bis zur letzten @font-face Anweisung durch die folgenden Zeilen \(bis ca. Zeile 28\).
 
@@ -132,7 +132,7 @@ Legen Sie nun im gleichen Ordner die Datei **materialize\_custom.scss** mit folg
 @import "../../../web/bundles/matetheme/sass/components/date_picker/default.time";
 ```
 
-#### \_custom\_colors\_2.scss anlegen:
+#### \_custom\_colors.scss duplizieren:
 
 **Duplizieren** Sie die Datei **\_custom\_colors.scss** und benennen die Datei um, z. B. in: **\_custom\_colors\_2.scss**. Wenn Sie der Datei einen anderen Namen geben wollen, müssen Sie den Dateinamen in der materialize\_custom.scss in Zeile 10 anpassen.
 
@@ -146,7 +146,7 @@ In der angelegten Datei ersetzen Sie folgende drei Zeilen \(Zeile 18 - 20\):
 
 Durch das Auskommentieren \(Entfernen der zwei Schrägstriche\), können Sie das Farbschema ändern.
 
-#### \_custom\_variables\_2.scss anlegen:
+#### \_custom\_variables.scss duplizieren:
 
 **Duplizieren** Sie die Datei **\_custom\_variables.scss** und benennen die Datei um, z. B. in: **\_custom\_variables\_2.scss**. Wenn Sie der Datei einen anderen Namen geben wollen, müssen Sie den Dateinamen in der materialize\_custom.scss in Zeile 12 anpassen.
 

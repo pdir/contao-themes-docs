@@ -4,7 +4,7 @@
 
 # Farbschema für bestimmte Seiten anpassen
 
-Wenn Sie das Farbschema nur für bestimmte Seiten anpassen möchten, z. B. einer Seite das dunkle Farbschema und bei dem Rest der Webseite das grüne Farbschema behalten wollen, ist dies derzeit noch nicht vom Theme vorgesehen, aber über Umwege möglich. Nachteil ist aber, dass es künftige CSS-Anpassungen für diese Seite nicht mehr greifen.
+Wenn Sie das Farbschema nur für bestimmte Seiten anpassen möchten, z. B. einer Seite das dunkle Farbschema und bei dem Rest der Webseite das grüne Farbschema behalten wollen, ist dies derzeit noch nicht vom Theme vorgesehen, aber über Umwege möglich. Nachteil ist aber, dass künftige CSS-Anpassungen für diese Seite nicht mehr greifen.
 
 **Folgende Schritte sind nötig:**
 

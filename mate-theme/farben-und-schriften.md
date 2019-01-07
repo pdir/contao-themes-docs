@@ -16,7 +16,7 @@ Das MATE Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Ab de
 
 Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_colors.scss** die entsprechende Zeile bei **Colour Schemes** aus \(Schrägstriche entfernen\). Gegebenenfalls müssen Sie die Seite mit Strg + F5 neuladen, damit die Änderung greift.
 
-Wenn Sie mehrere Farbschemen auf einer Webseite nutzen wollen, können Sie folgende [Anleitung](/mate-theme/farbschema-fuer-einzelne-seite-anpassen.md) befolgen.
+Wenn Sie mehrere Farbschemen auf einer Webseite nutzen wollen, können Sie folgende [Anleitung](https://github.com/pdir/contao-themes-docs/blob/master/mate-theme/farbschema-fuer-einzelne-seite-anpassen.md) befolgen.
 
 ![](/mate-theme/images/color_schemes/MATE_theme_colorschemes.jpg)
 

@@ -14,4 +14,5 @@
 * [Contao-Elemente](mate-theme/inhaltselemente.md)
 * [Theme-Elemente](mate-theme/theme-elemente.md)
 * [Andere Erweiterungen](mate-theme/erweiterungen.md)
+* [Sonstige Anpassungen](mate-theme/sonstige-anpassungen.md)
 

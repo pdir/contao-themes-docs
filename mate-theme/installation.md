@@ -18,7 +18,7 @@ Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-do
 
 #### **Theme-Dateien synchronisieren und Tabelle 'tl\_files' leeren:**
 
-Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen Sie in der linken Navigation unter **MATE THEME** den Menüpunkt **Mate Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren** \(siehe Bild 2\). Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner mate angelegt.
+Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen Sie in der linken Navigation unter **MATE THEME** den Menüpunkt **Mate Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren** \(siehe Bild 2\). Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner mate angelegt und die SQL-Dateien zum Importieren der Datenbank in den templates-Ordner kopiert.
 
 Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den Button **Tabelle 'tl\_files' leeren** klicken. Dieser Schritt muss vor dem Importieren der Datenbank erfolgen.
 
@@ -26,9 +26,7 @@ Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den B
 
 #### **Datenbank importieren:**
 
-Verbinden Sie sich per FTP mit Ihrem Server und navigieren Sie zu dem Pfad **vendor/contao-themes-net/mate-theme-bundle/src/templates/mate**. Dort finden Sie jeweils eine SQL-Datei für Contao 4.4, 4.5 und 4.6. Die benötigte Datei kopieren Sie nun in den templates-Ordner und rufen anschließend das Install-Tool auf.
-
-Unter dem Reiter **Ein Template importieren **\(siehe folgender Screenshot\) können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf Ein Template importieren.
+Rufen Sie nun das Install-Tool auf. Unter dem Reiter **Ein Template importieren **\(siehe folgender Screenshot\) können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei für Ihre Contao-Version aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf Ein Template importieren.
 
 Wenn die Datenbank erfolgreich importiert wurde, sollten Sie eine Meldung, dass ein Template importiert wurde, wie im folgenden Screenshot, erhalten.
 

@@ -1,6 +1,3 @@
-#### Dokumentation - Mate Theme für Contao
-
----
 
 # Einrichtung
 
@@ -20,11 +17,11 @@ Es ist nicht möglich neue Theme Helper Tags anzulegen. Das Theme bringt allerdi
 
 Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Element** oder einem **Template** platzieren: z. B.  `{{theme::content::MATE02/01}}` \(siehe Bild 3\). Die erste Nummer bezeichnet den Typ \(Header, Modules oder Footer\). Die zweite Nummer entspricht der Nummer des Theme Helper Tags im Artikel.
 
-###### Bild 1: Artikel unter MATE Elements![](/mate-theme/images/theme-helper.png)
+###### Bild 1: Artikel unter MATE Elements![](_images/mate-theme/theme-helper.png)
 
-###### Bild 2: Theme Helper Tag im Artikel auswählen![](/mate-theme/images/theme-helper-tag.png)
+###### Bild 2: Theme Helper Tag im Artikel auswählen![](_images/mate-theme/theme-helper-tag.png)
 
-###### Bild 3: Artikel über den Theme Helper Tag einbinden![](/mate-theme/images/theme-helper-tag-einbinden.png)
+###### Bild 3: Artikel über den Theme Helper Tag einbinden![](_images/mate-theme/theme-helper-tag-einbinden.png)
 
 ## Header anpassen
 

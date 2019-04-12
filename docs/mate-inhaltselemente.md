@@ -1,10 +1,7 @@
-#### Dokumentation - Mate Theme für Contao
-
----
 
 # Inhaltselemente
 
-Alle Module sind bereits auf der Seite** Elemente **beispielhaft eingebunden.
+Alle Module sind bereits auf der Seite **Elemente** beispielhaft eingebunden.
 
 ## Überschriften
 
@@ -12,17 +9,17 @@ Wenn ein Inhaltselement mit einer Überschrift die Klasse **bordered-left** oder
 
 **Überschrift mit einem Rahmen auf der linken Seite:**
 
-![](/mate-theme/images/contao-elemente/bordered-left.png)
+![](_images/mate-theme/contao-elemente/bordered-left.png)
 
 **Überschrift mit einem Rahmen auf der rechten Seite:**
 
-![](/mate-theme/images/contao-elemente/bordered-right.png)
+![](_images/mate-theme/contao-elemente/bordered-right.png)
 
 ## Hyperlinks
 
 Wenn ein Link wie ein Button \(weiße Schrift auf grünen Hintergrund\) aussehen soll, müssen Sie dem Link die Klasse **btn** geben.
 
-![](/mate-theme/images/contao-elemente/button.png)
+![](_images/mate-theme/contao-elemente/button.png)
 
 ## Content-Slider
 
@@ -30,11 +27,11 @@ Wenn ein Link wie ein Button \(weiße Schrift auf grünen Hintergrund\) aussehen
 
 Bei dem Element Content-Slider \(Umschlag Anfang\) muss das Template **ce\_sliderStart\_mate** ausgewählt werden. Bei dem abschließenden Element Content-Slider \(Umschlag Ende\) muss das Template **ce\_sliderStop\_mate** ausgewählt werden. Der Slider wird wie im folgenden Beispiel gestylt, wenn die Textelemente die Klasse **slidebox1** bekommen.
 
-![](/mate-theme/images/contao-elemente/content-slider-normal.png)
+![](_images/mate-theme/contao-elemente/content-slider-normal.png)
 
 Wenn dem Umschlag-Anfang-Element die Klasse **smaller** vergeben wird, wird der Content Slider nur mit einer Höhe von 250px dargestellt.
 
-![](/mate-theme/images/contao-elemente/content-slider-schmal.png)
+![](_images/mate-theme/contao-elemente/content-slider-schmal.png)
 
 #### Content-Slider mit Newsbeiträgen
 

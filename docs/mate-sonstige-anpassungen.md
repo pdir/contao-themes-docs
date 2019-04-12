@@ -1,6 +1,3 @@
-#### Dokumentation - Mate Theme für Contao
-
----
 
 # Sonstige Anpassungen
 

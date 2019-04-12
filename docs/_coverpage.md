@@ -2,10 +2,10 @@
 
 ---
 
-[MATE Theme](/mate-theme/installation.md)
+[MATE Theme](/mate-theme/README.md)
 =========================================
 
-![](/mate-theme/images/mate_logo.png)
+![](_images/mate-theme/mate_logo.png)
 
 - [Dokumentation](/mate-theme/installation.md)
 - [Demo](https://mate.contao-themes.net/)
@@ -13,11 +13,11 @@
 
 ---
 
-[ODD Theme](/odd-theme/installation.md)
+[ODD Theme](/odd-theme/installation/installation.md)
 =======================================
 
-![](/mate-theme/images/mate_logo.png)
+![](_images/mate-theme/mate_logo.png)
 
 - [Dokumentation](/odd-theme/installation.md)
 - [Demo](https://odd.contao-themes.net/)
-- [Probleme melden](https://github.com/contao-themes-net/odd-theme-bundle/issues)
+- [Problem

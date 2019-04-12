@@ -1,6 +1,3 @@
-#### Dokumentation - Mate Theme für Contao
-
----
 
 # Theme-Elemente
 
@@ -14,19 +11,19 @@ Sie benötigen dafür keine Content-Slider Umschlag-Elemente, sondern müssen le
 
 Das Bild sowie die Teasertexte können Sie jeweils in den Beitragseinstellungen des Newsbeitrages auswählen.
 
-![](/mate-theme/images/mate-elemente/news-slider.jpg)
+![](_images/mate-theme/mate-elemente/news-slider.jpg)
 
 ## Content-Box
 
 Für die Content-Box muss der Elementtyp **Content-Box** ausgewählt werden. Die Hintergrundfarbe kann geändert werden, indem man dem Element Klassen vergibt \(z. B. "grey lighten-3", für mehr Informationen siehe Abschnitt [Farben](/mate-theme/materialize.md)\) oder man das CSS \(custom.scss\) anpasst. Erläuterungen, wie Elemente nebeneinander dargestellt werden können, finden Sie im Abschnitt [Grid](/mate-theme/materialize.md).
 
-![](/mate-theme/images/mate-elemente/content-box.jpg)
+![](_images/mate-theme/mate-elemente/content-box.jpg)
 
 ## Teaser-Box
 
 Für die Teaser-Box muss der Elementtyp **Teaserbox** ausgewählt werden. Die Breite der Boxen kann durch das Vergeben von CSS-Klassen angepasst werden. Wenn ein Bild hinzugefügt wird, muss die Bildgröße **Teaser-Box \(450x270\)** ausgewählt werden.
 
-![](/mate-theme/images/mate-elemente/teaser-box.jpg)
+![](_images/mate-theme/mate-elemente/teaser-box.jpg)
 
 ## Headerbild
 
@@ -36,34 +33,34 @@ Eine Beispielintegration für ein normales Headerbild finden Sie in der Demo-Sei
 
 **Normales Headerbild:**
 
-![](/mate-theme/images/mate-elemente/headerbild-normal.jpg)
+![](_images/mate-theme/mate-elemente/headerbild-normal.jpg)
 
 **Schmales Headerbild:**
 
 Für ein schmaleres Headerbild muss dem Element die Klasse **smaller** gegeben werden.  
-![](/mate-theme/images/mate-elemente/headerbild-schmal.jpg)
+![](_images/mate-theme/mate-elemente/headerbild-schmal.jpg)
 
 **Links ausgerichtetes Headerbild:**
 
 Für ein links ausgerichtetes Headerbild geben Sie dem Element einfach die Klasse **left**.
 
-![](/mate-theme/images/mate-elemente/headerimage_left.png)
+![](_images/mate-theme/mate-elemente/headerimage_left.png)
 
 **Rechts ausgerichtetes Headerbild:**
 
 Für ein rechts ausgerichtetes Headerbild geben Sie dem Element einfach die Klasse **right**.
 
-![](/mate-theme/images/mate-elemente/headerimage_right.png)
+![](_images/mate-theme/mate-elemente/headerimage_right.png)
 
 ## Einfache Inhaltsbox
 
 Man kann einem Element vom **Elementtyp Text** einen weißen Hintergrund mit etwas Abstand geben, indem man dem Element das individuelle Template **ce\_text\_simplebox\_mate** vergibt.
 
-![](/mate-theme/images/mate-elemente/simple-box.jpg)
+![](_images/mate-theme/mate-elemente/simple-box.jpg)
 
 ## Newsletter-Box
 
 Im Footer ist es möglich einen Bereich für die Newsletter-Anmeldung zu integrieren. Die Newsletter-Box ist im **Modul Footer** über den Insert-Tag `{{theme::content::MATE02/01}}` eingebunden. Das Modul dazu ist in einem Artikel unter **MATE Elements - Moduls - 02/02 newsletter** eingebunden. Damit das CSS geladen wird, muss der Artikel die ID **newsletter** besitzen.
 
-![](/mate-theme/images/mate-elemente/newsletter-box.jpg)
+![](_images/mate-theme/mate-elemente/newsletter-box.jpg)
 

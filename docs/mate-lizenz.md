@@ -1,6 +1,3 @@
-#### Dokumentation - Mate Theme für Contao
-
----
 
 # Lizenz erwerben
 
@@ -10,5 +7,6 @@ Die kostenpflichtige Lizenz können Sie direkt auf der Theme-Detailseite mit Pay
 
 Nach erfolgreicher Zahlung erhalten Sie in Kürze eine E-Mail mit der Theme-Lizenz, einer Rechnung sowie weiterer Details.
 
-Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](/mate-theme/installation.md) und verwenden, solange Sie noch keine Lizenz erhalten haben.
+Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](mate-installation.md) und verwenden, solange Sie noch keine Lizenz erhalten haben.
 
+**NEU: Bestellung im Shop unter** https://contao-themes.net/theme-detail/mate.html

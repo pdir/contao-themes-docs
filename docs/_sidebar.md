@@ -18,6 +18,11 @@
   - [Lizenz](odd-lizenz.md)
   - [Installation](odd-installation.md)
   - [Einrichtung](odd-einrichtung.md)
+  - [Variablen](odd-variablen.md)
+  - [Layouts](odd-layouts.md)
+  - [Elemente](odd-elemente.md)
+  - [Module](odd-module.md)
+  - [Andere Erweiterungen](odd-andere-erweiterungen.md)
 
 ---
 

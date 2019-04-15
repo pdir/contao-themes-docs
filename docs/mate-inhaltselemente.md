@@ -35,7 +35,7 @@ Wenn dem Umschlag-Anfang-Element die Klasse **smaller** vergeben wird, wird der 
 
 #### Content-Slider mit Newsbeiträgen
 
-Es ist möglich Newsbeiträge in einem Slider darzustellen. Weitere Infos dazu finden Sie auf der Seite [Theme-Elemente](/mate-theme/theme-elemente.md) unter News-Slider.
+Es ist möglich Newsbeiträge in einem Slider darzustellen. Weitere Infos dazu finden Sie auf der Seite [Theme-Elemente](/mate-theme-elemente.md) unter News-Slider.
 
 ## Media-Elemente
 

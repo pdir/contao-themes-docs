@@ -3,7 +3,7 @@
 
 ## CSS-Anpassungen
 
-Wie Sie Farben und Schriften sowie eigenes CSS definieren können, ist auf der Seite [Farben und Schriften](/mate-theme/farben-und-schriften.md) erklärt.
+Wie Sie Farben und Schriften sowie eigenes CSS definieren können, ist auf der Seite [Farben und Schriften](/mate-farben-und-schriften.md) erklärt.
 
 ## JavaScript-Anpassungen
 
@@ -31,5 +31,5 @@ Das Logo kann im Artikel **01/04 Logo** ausgetauscht werden. Wählen Sie dafür 
 
 ## Footer anpassen
 
-Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](/mate-theme/theme-elemente.md)\) im Modul **Footer**.
+Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](/mate-theme-elemente.md)\) im Modul **Footer**.
 

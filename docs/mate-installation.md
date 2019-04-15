@@ -50,4 +50,4 @@ Unter **Erweiterte CSS-Einstellungen** müssen SIe noch das Klassen-Set **materi
 ![](_images/mate-theme/advanced_classes_einstellungen.png)
 Bild 5: Erweiterte CSS-Einstellungen
 
-Damit ist die Installation des Themes fertig und Sie können mit der [Einrichtung](mate-theme/einrichtung.md) beginnen.
+Damit ist die Installation des Themes fertig und Sie können mit der [Einrichtung](mate-einrichtung.md) beginnen.

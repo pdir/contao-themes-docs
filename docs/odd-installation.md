@@ -3,7 +3,7 @@
 
 ## Voraussetzungen
 
-Installieren Sie zuerst Contao, führen Sie das Datenbank-Update aus und befolgen danach folgende Schritte.
+Das Theme kann nur in einer leeren Contao-Installation installiert werden und ist mit Contao 4.4.x oder höher kompatibel.
 
 ---
 

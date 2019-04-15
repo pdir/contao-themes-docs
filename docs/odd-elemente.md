@@ -26,16 +26,16 @@ Um ein Headerbild zu platzieren verwenden Sie den Elementtyp **Bild** und fügen
 
 Für ein Headerbild ohne Schrägen wählen Sie bei der Bildgröße **Headerbild (1920x400)** aus. Das Headerbild müssen Sie in einem eigenen Artikel platzieren und in den **Artikeleinstellungen** das Template mod\_article\_fullwidth auswählen.
 
-Ein Beispiel finden Sie auf der Seite [Headerbild ohne Schräge](https://odd.pdir.dev/layouts/headerbild-layouts/ohne-schräge.html).
+Ein Beispiel finden Sie auf der Seite [Headerbild ohne Schräge](http://odd.contao-themes.net/layouts/headerbild-layouts/ohne-schräge.html).
 
 #### Headerbild mit Schräge nach links
 
 Für ein Headerbild mit einer Schräge nach links wählen Sie bei der Bildgröße **Headerbild (1920x400)** aus. Das Headerbild müssen Sie in einem eigenen Artikel platzieren, in den **Artikeleinstellungen** das Template mod\_article\_fullwidth auswählen und unter **Experten-Einstellungen** die Klasse **skw-bl** hinzufügen.
 
-Ein Beispiel finden Sie auf der Seite [Headerbild mit Schräge nach links](https://odd.pdir.dev/layouts/headerbild-layouts/schräge-nach-links.html).
+Ein Beispiel finden Sie auf der Seite [Headerbild mit Schräge nach links](http://odd.contao-themes.net/layouts/headerbild-layouts/schräge-nach-links.html).
 
 #### Headerbild mit Schräge nach rechts
 
 Für ein Headerbild mit einer Schräge nach rechts wählen Sie bei der Bildgröße **Headerbild (1920x400)** aus. Das Headerbild müssen Sie in einem eigenen Artikel platzieren, in den **Artikeleinstellungen** das Template mod\_article\_fullwidth auswählen und unter **Experten-Einstellungen** die Klasse **skw-br** hinzufügen.
 
-Ein Beispiel finden Sie auf der Seite [Headerbild mit Schräge nach rechts](https://odd.pdir.dev/layouts/headerbild-layouts/schräge-nach-rechts.html).
+Ein Beispiel finden Sie auf der Seite [Headerbild mit Schräge nach rechts](http://odd.contao-themes.net/layouts/headerbild-layouts/schräge-nach-rechts.html).

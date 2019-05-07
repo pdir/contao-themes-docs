@@ -40,9 +40,9 @@ Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **S
 
 # Einstellungen
 
-In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** deaktivieren und **Ordner-URLs verwenden** aktivieren \(siehe Bild 4\).
+In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. In Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
 
-![](_images/mate-theme/einstellungen.png)
+![](_images/odd-theme/installation/odd_installation_schritt6_ordner_urls.png)
 Bild 4: Frontend-Einstellungen
 
 Unter **Erweiterte CSS-Einstellungen** müssen SIe noch das Klassen-Set **materialize.json** auswählen \(siehe Bild 5\).

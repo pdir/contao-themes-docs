@@ -12,6 +12,7 @@
   - [Theme-Elemente](mate-theme-elemente.md)
   - [Andere Erweiterungen](mate-erweiterungen.md)
   - [Sonstige Anpassungen](mate-sonstige-anpassungen.md)
+  - [Update auf MATE Theme 2.0](mate-update-version-2.0.md)
 
 - ODD Theme
 

@@ -59,6 +59,22 @@ Eine komplette Liste mit allen Änderungen in der Version 1.0.0 des Materialize 
 <?php if (!empty($item['subitems'])): ?> data-target="nav<?= $this->id ?>dropdown<?= $item['id'] ?>"<?php endif; ?>
 ```
 
+## Sidenav
+
+- Aufruf per JavaScript erfolgt nun über **sidenav()** statt **sideNav()**
+
+**MATE 1.x**
+
+`
+$(".sidenav").sideNav();
+`
+
+**MATE 2.0**
+
+`
+$(".sidenav").sidenav();
+`
+
 ## Select-Felder
 
 - Aufruf per JavaScript erfolgt nun über **formSelect()** statt **materialSelect()**

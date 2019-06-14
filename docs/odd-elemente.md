@@ -21,7 +21,7 @@ Um eine Content-Box hinzuzufügen, platzieren Sie ein Element vom Typ **Content 
 
 <img src="_images/odd-theme/elemente/content_box_element.png" />
 
-Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Ein Beispiel finden Sie in der ODD Dokumentation auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
+Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Ein Beispiel finden Sie in der ODD Demo auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
 
 <img src="_images/odd-theme/elemente/content_box.png" />
 
@@ -96,7 +96,7 @@ Zwischen den Umschlagselementen platzieren Sie zwei Textelemente, wo Sie jeweils
 
 <img src="_images/odd-theme/elemente/grid_element_klassen.png" />
 
-Ein Beispiel finden Sie in der ODD Dokumentation auf der Seite [Textelemente](http://odd.contao-themes.net/inhaltselemente/textelemente.html).
+Ein Beispiel finden Sie in der ODD Demo auf der Seite [Textelemente](http://odd.contao-themes.net/inhaltselemente/textelemente.html).
 
 ## Headerbild
 
@@ -136,7 +136,7 @@ Wenn Sie einem Link die Klasse `btn` geben wird er wie ein Button dargestellt.
 
 Wenn Sie bei einem **Textelement** unter den **Template-Einstellungen** das Template **ce_text_cthemes_simplebox** auswählen, wird es wie im folgenden Screenshot mit einem weißen Hintergrund versehen.
 
-Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Ein Beispiel finden Sie in der ODD Dokumentation auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
+Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Ein Beispiel finden Sie in der ODD Demo auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
 
 <img src="_images/odd-theme/elemente/inhaltsbox.png" />
 
@@ -146,7 +146,7 @@ Um eine Preis-Tabelle darzustellen, platzieren Sie ein Element vom Typ **Preis-T
 
 <img src="_images/odd-theme/elemente/preistabelle_element.png" />
 
-Um eine Box hervorgehoben darzustellen, füllen Sie das Eingabefeld **Bezeichnung für Hervorgehobene Box** aus. Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Zwei Beispiele finden Sie in der ODD Dokumentation auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
+Um eine Box hervorgehoben darzustellen, füllen Sie das Eingabefeld **Bezeichnung für Hervorgehobene Box** aus. Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Zwei Beispiele finden Sie in der ODD Demo auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
 
 <img src="_images/odd-theme/elemente/preistabelle_dreispaltig.png" style="width:49%;margin-right:2%;" /><img src="_images/odd-theme/elemente/preistabelle_zweispaltig.png" style="width:49%;vertical-align:top;" />
 
@@ -160,7 +160,7 @@ Das Bild fügen Sie über die Checkbox **Ein Bild hinzufügen** hinzu. Wählen S
 
 <img src="_images/odd-theme/elemente/teaser_box_bildgroesse.png" />
 
-Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Ein Beispiel finden Sie in der ODD Dokumentation auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
+Um mehrere Elemente nebeneinander darzustellen, platzieren Sie diese Elemente wie im Abschnitt [Grid](odd-elemente?id=grid) beschrieben. Ein Beispiel finden Sie in der ODD Demo auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
 
 <img src="_images/odd-theme/elemente/teaser_box.png" />
 
@@ -174,7 +174,7 @@ Sie können eine Überschrift, einen Text sowie das Font-Awesome Icon und ggf. e
 
 <img src="_images/odd-theme/elemente/text_und_icon_eingabemaske.png" />
 
-Ein Beispiel finden Sie in der ODD Dokumentation auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
+Ein Beispiel finden Sie in der ODD Demo auf der Seite [Weitere ODD-Elemente](http://odd.contao-themes.net/theme-elemente.html).
 
 <img src="_images/odd-theme/elemente/text_und_icon.png" />
 

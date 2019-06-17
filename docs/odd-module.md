@@ -6,6 +6,7 @@ Folgende Module werden auf dieser Seite erklärt:
 - [Events](odd-module?id=events)
 - [FAQ](odd-module?id=faq)
 - [Kalender](odd-module?id=kalender)
+- [Modale Dialoge](odd-module?id=modale-dialoge)
 - [Navigation](odd-module?id=navigation)
 - [News](odd-module?id=news)
 
@@ -72,6 +73,15 @@ Für einen Mini-Kalender, wie er in der [ODD Demo](http://odd.contao-themes.net/
 <img src="_images/odd-theme/module/kalender_mini_einstellungen.png" />  
    
 <img src="_images/odd-theme/module/kalender_mini.png" />
+
+## Modale Dialoge
+
+Um einen [Modalen Dialog](https://getbootstrap.com/docs/4.0/components/modal/) zu setzen, navigieren Sie zu den Frontend-Modulen und legen ein neues Modul vom Typ **Modal** an. Dort können Sie einen Link setzen sowie Diesem zusätzliche Klassen vergeben und den eigentlichen Inhalt des Modalen Dialoges bearbeiten. Das Modul können Sie an einer beliebigen Stelle, z. B. im Artikel, einbinden.
+
+Wenn der Modale Dialog vertikal zentriert sein soll, fügen Sie im Feld **CSS-Klassen für den Modalen Dialog**
+ die Klasse `modal-dialog-centered` ein. Um den Modalen Dialog breiter darzustellen, können Sie in dem gleichen Eingabefeld die Klasse `modal-lg` eintragen.
+ 
+ <img src="_images/odd-theme/module/modal_einstellungen.png">
 
 ## Navigation
 

@@ -3,25 +3,14 @@
 
 Alle Module sind bereits auf der Seite **Module** beispielhaft eingebunden.
 
-## News
-
-#### **News mit Bildern und Teaser**
-
-Für News mit Bildern und einem Teasertext muss im Modul das Template **news\_mate\_latest** sowie die Bildgröße N**ews-Box \(520x350\)** ausgewählt werden. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
-
-![](_images/mate-theme/module/news-mit-bildern-und-teasertext.png)
-
-#### **News ohne Bilder und mit Teaser**
-
-Für News ohne Bilder und mit einem Teasertext muss im Modul das Template **news\_mate\_short** ausgewählt werden. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
-
-![](_images/mate-theme/module/news-mit-teasertext.png)
-
-#### **Einfache Newsliste**
-
-Für eine einfache Newsliste ohne Bilder und Teasertext wird kein eigenes Template mitgeliefert. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
-
-![](_images/mate-theme/module/news-simple.png)
+Folgende Elemente werden auf dieser Seite erklärt:
+- [Events](mate-module?id=events)
+- [Formulare](mate-module?id=formulare)
+- [Login-Formular](mate-module?id=login-formular)
+- [Modale Dialoge](mate-module?id=modale-dialoge)
+- [Navigation](mate-module?id=navigation)
+- [News](mate-module?id=news)
+- [Suche](mate-module?id=suche)
 
 ## Events
 
@@ -42,6 +31,43 @@ Für eine Eventliste ohne Bilder und mit einem Teasertext muss im Modul das Temp
 Für eine einfache Eventliste ohne Bilder und Teasertext muss im Modul das Template **event\_mate\_upcoming** ausgewählt werden. Im Modul der Detailansicht muss das Template **event\_mate\_full** ausgewählt werden.
 
 ![](_images/mate-theme/module/events-simple.png)
+
+## Formulare
+
+Für das Feld Dateiupload muss das individuelle Template **form\_mate\_upload**\_ \_ausgewählt werden.
+
+## Login-Formular
+
+Für den Modultyp Login-Formular muss das individuelle Template **mod\_login\_mate** ausgewählt werden.
+
+## Modale Dialoge
+
+Ab der Version 2.0.0 des Mate Themes ist es möglich [Modale Dialoge](https://materializecss.com/modals.html) per Modul zu setzen. Navigieren Sie zu den Frontend-Modulen und legen ein neues Modul vom Typ **Modal** an. Dort können Sie einen Link setzen sowie Diesem zusätzliche Klassen vergeben und den eigentlichen Inhalt des Modalen Dialoges bearbeiten. Das Modul können Sie an einer beliebigen Stelle, z. B. im Artikel, einbinden.
+
+Wenn der Modale Dialog am unteren Bildschirmrand fixiert sein soll, fügen Sie im Feld **CSS-Klassen für den Modalen Dialog**
+ die Klasse **bottom-sheet** ein.
+ 
+ <img src="_images/mate-theme/module/modal_einstellungen.png">
+
+## News
+
+#### **News mit Bildern und Teaser**
+
+Für News mit Bildern und einem Teasertext muss im Modul das Template **news\_mate\_latest** sowie die Bildgröße N**ews-Box \(520x350\)** ausgewählt werden. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
+
+![](_images/mate-theme/module/news-mit-bildern-und-teasertext.png)
+
+#### **News ohne Bilder und mit Teaser**
+
+Für News ohne Bilder und mit einem Teasertext muss im Modul das Template **news\_mate\_short** ausgewählt werden. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
+
+![](_images/mate-theme/module/news-mit-teasertext.png)
+
+#### **Einfache Newsliste**
+
+Für eine einfache Newsliste ohne Bilder und Teasertext wird kein eigenes Template mitgeliefert. Im Modul der Detailansicht muss das Template **news\_mate\_full** ausgewählt werden.
+
+![](_images/mate-theme/module/news-simple.png)
 
 ## Navigation
 
@@ -67,15 +93,6 @@ Für eine Unterseiten-Navigation, wie sie z. B. in der Demo in der linken und re
 
 ![](_images/mate-theme/module/navigation-unterseiten.png)
 
-## Login-Formular
-
-Für den Modultyp Login-Formular muss das individuelle Template **mod\_login\_mate** ausgewählt werden.
-
-## Formulare
-
-Für das Feld Dateiupload muss das individuelle Template **form\_mate\_upload**\_ \_ausgewählt werden.
-
 ## Suche
 
 Für das Suchmaschinen-Modul muss das Template **search\_mate** ausgewählt werden.
-

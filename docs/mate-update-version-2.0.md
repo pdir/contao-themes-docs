@@ -1,8 +1,6 @@
 
 # Update auf MATE Theme 2.0
 
-**Version 2.0 des MATE Theme ist noch nicht verfügbar.**
-
 In der Version 2.0 des MATE Theme wird die Version 1.0.0 des [Materialize Framework](https://materializecss.com), statt der Version 0.100.2 verwendet. Wenn Sie Template-, Javascript- oder CSS-Anpassungen vorgenommen haben, kann es sein, dass nach dem Update Änderungen von Ihrer Seite notwendig sind, da z. B. CSS-Klassen umbenannt wurden und Funktionen anders aufgerufen werden müssen. In dieser neuen Version wurden einige Bugs, die mit neueren Browserversionen auftraten, gefixt.
 
 Eine komplette Liste mit allen Änderungen in der Version 1.0.0 des Materialize Framework finden Sie [hier](https://github.com/Dogfalo/materialize/blob/v1-dev/v1-upgrade-guide.md).

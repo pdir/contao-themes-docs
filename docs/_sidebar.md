@@ -10,6 +10,7 @@
   - [Module](mate-module.md)
   - [Contao-Elemente](mate-inhaltselemente.md)
   - [Theme-Elemente](mate-theme-elemente.md)
+  - [Mehrsprachigkeit](mate-mehrsprachigkeit.md)
   - [Andere Erweiterungen](mate-erweiterungen.md)
   - [Sonstige Anpassungen](mate-sonstige-anpassungen.md)
   - [Update auf MATE Theme 2.0](mate-update-version-2.0.md)
@@ -23,6 +24,7 @@
   - [Layouts](odd-layouts.md)
   - [Elemente](odd-elemente.md)
   - [Module](odd-module.md)
+  - [Mehrsprachigkeit](odd-mehrsprachigkeit.md)
   - [Andere Erweiterungen](odd-andere-erweiterungen.md)
 
 ---

@@ -22,3 +22,9 @@ In den Elementen gibt es nun unter **L10n Einstellungen** die Möglichkeit die j
 <img src="_images/mate-theme/mehrsprachigkeit/i18nl10n_elemente_einstellungen.png">
 
 <img src="_images/mate-theme/mehrsprachigkeit/i18nl10n_elemente.png">
+
+## Duplizieren der Seitenstruktur
+
+Wenn Sie lieber mit mehreren Seitenstrukturen arbeiten möchten, muss unter **ODD Elements** in den **Artikeleinstellungen** bei **Template-Einstellungen** die entsprechende Root-Seite ausgewählt werden.
+
+<img src="_images/mate-theme/mehrsprachigkeit/mate_elements_seitenname.png">

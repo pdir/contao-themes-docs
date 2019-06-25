@@ -11,77 +11,12 @@ Das Theme kann nur in einer leeren Contao-Installation installiert werden und is
 
 ## 1 Theme Odd Bundle installieren:
 
-Installieren Sie das Theme Odd Bundle, indem Sie die Datei **composer.json** im Contao Root-Verzeichnis bearbeiten. An das Ende von `require` fügen Sie die folgende Zeile ein, vergessen Sie dabei nicht nach der vorletzten Zeile ein Komma zu setzen (siehe Beispiel der composer.json).
+Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php). Wählen Sie die Schaltfläche **Pakete installieren** aus und geben im Suchfeld **odd theme** ein. Installieren Sie das Bundle **contao-themes-net/odd-theme-bundle**, indem Sie auf den Button **Prüfen & Installieren** klicken und anschließend mit **Änderungen anwenden** die Installation starten. Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 
-`"pdir/theme-odd-bundle": "^1.0"`
-
-Anschließend fügen Sie **an das Ende der Datei vor der letzten schließenden geschweiften Klammer** folgende Zeilen ein und ersetzen Benutzername und Passwort mit den Zugangsdaten, die wir Ihnen bei der Bestell-Email mitgesendet haben. In der Zeile davor muss nach der geschweiften Klammer auch wieder ein Komma gesetzt werden.
-
-`,
-"repositories": [
-    {
-        "type": "composer",
-        "url": "https://BENUTZERNAME:PASSWORT@packages.contao.store"
-    }
-]`
-
-**Beispiel, wie die composer.json für Contao 4.4 aussehen sollte:**
-
-`
-{
-    "name": "contao/managed-edition",
-    "type": "project",
-    "description": "Contao Open Source CMS",
-    "license": "LGPL-3.0-or-later",
-    "authors": [
-        {
-            "name": "Leo Feyer",
-            "homepage": "https://github.com/leofeyer"
-        }
-    ],
-    "require": {
-        "php": "^5.6 || ^7.0",
-        "contao/calendar-bundle": "^4.4",
-        "contao/comments-bundle": "^4.4",
-        "contao/faq-bundle": "^4.4",
-        "contao/listing-bundle": "^4.4",
-        "contao/manager-bundle": "4.4.*",
-        "contao/news-bundle": "^4.4",
-        "contao/newsletter-bundle": "^4.4",
-	    "pdir/theme-odd-bundle": "^1.0"
-    },
-    "conflict": {
-        "contao-components/installer": "<1.3",
-        "contao/core-bundle": "<4.4.8"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-4.4": "4.4.x-dev"
-        },
-        "contao-component-dir": "assets"
-    },
-    "scripts": {
-        "post-install-cmd": [
-            "Contao\\ManagerBundle\\Composer\\ScriptHandler::initializeApplication"
-        ],
-        "post-update-cmd": [
-            "Contao\\ManagerBundle\\Composer\\ScriptHandler::initializeApplication"
-        ]
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://BENUTZERNAME:PASSWORT@packages.contao.store"
-        }
-    ],
-}
-`
 
 ---
 
-## 2 Pakete und Datenbank aktualisieren ##
-
-Rufen Sie als erstes den **Contao Manager** über die folgende URL auf: www.ihre-domain.de/contao-manager.phar.php. Starten Sie den Contao Manager und wählen Sie die Schaltfläche **Pakete aktualisieren** aus. Anschließend klicken Sie auf **Prüfen & Installieren** und warten den Installations-Prozess ab.
+## 2 Datenbank aktualisieren ##
 
 Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 

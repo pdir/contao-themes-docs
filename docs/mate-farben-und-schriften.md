@@ -7,7 +7,7 @@ Ab der Version 1.4.0 gibt es neben der **\_custom\_variables.scss **auch die **\
 
 Wenn Sie lieber mit CSS-Dateien statt mit SCSS-Dateien arbeiten wollen, können Sie über **Themes - Stylesheets** einen neuen Stylesheet anlegen und ihn im **Layout** bei **Interne Stylesheets** einbinden. Das CSS wird anschließend automatisch nach dem CSS des Mate Theme geladen.
 
-# Farbschemen
+## Farbschemen
 
 Das MATE Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Ab der Version 1.4.0 gibt es die Möglichkeit das Theme auf ein dunkles \(dark\), blaues \(blue\) oder gelbes Layout \(yellow\) umzustellen.
 
@@ -17,7 +17,7 @@ Wenn Sie mehrere Farbschemen auf einer Webseite nutzen wollen, können Sie folge
 
 ![](_images/mate-theme/color_schemes/MATE_theme_colorschemes.jpg)
 
-# Variablen der \_custom\_colors.scss
+## Variablen der \_custom\_colors.scss
 
 #### Grundfarben:
 

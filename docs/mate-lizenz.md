@@ -11,7 +11,11 @@ Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installier
 
 #### Lizenz registrieren
 
-Wenn Sie eine Lizenz erworben und das Mate Theme bereits installiert haben, können Sie diese im Backend unter dem Menüpunkt **Themes** registrieren. Klicken Sie auf **Theme Domain aktivieren**, geben Ihre Domain ein und klicken anschließend auf **Check Domain**. Wenn die Domain erfolgreich registriert wurde, sehen Sie eine Meldung mit **Domain registered**. Wenn Sie die Seite neuladen, sollte es wie im folgenden Screenshot aussehen.
+<div class="info-box">
+Wenn Sie die Theme-Lizenz über <a href="https://themes.contao.org">themes.contao.org</a> bestellt haben, senden Sie uns bitte noch eine E-Mail mit Ihrer <strong>Domain</strong> und dem <strong>bestellten Theme</strong> an <a href="mailto:support@pdir.de">support[AT]pdir.de</a>, damit wir die Theme-Domain-Aktivierung im Backend durchführen können.
+</div>
+
+Wenn Sie eine Lizenz erworben und das Mate Theme bereits installiert haben, können Sie diese im Backend unter dem Menüpunkt <strong>Themes</strong> registrieren. Klicken Sie auf <strong>Theme Domain aktivieren</strong>, geben Ihre Domain ein und klicken anschließend auf <strong>Check Domain</strong>. Wenn die Domain erfolgreich registriert wurde, sehen Sie eine Meldung mit <strong>Domain registered</strong>. Wenn Sie die Seite neuladen, sollte es wie im folgenden Screenshot aussehen.
 
 <img src="_images/mate-theme/lizenz/lizenz_registrieren.png">
 

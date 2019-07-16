@@ -25,4 +25,12 @@ Falls Sie nur die Meldung _"You can set a Theme Licence in Layout -> Themes."_ s
 
 <hr style="border:1px solid #e6e6e6">
 
+#### Copyright-Hinweis entfernen
+
+Haben Sie eine Lizenz erworben, können Sie im Contao-Backend den Copyright-Hinweis, der in einem Artikel platziert ist, entfernen.
+
+Navigieren Sie zur **Artikelansicht** und suchen unter **MATE Elements - 05 Footer** den Artikel **05/05 footer bottom** und bearbeiten diesen über das Stift-Icon. Dort ist ein Textelement platziert, welches Sie bearbeiten können.
+
+<img src="_images/mate-theme/lizenz/copyright_hinweis_entfernen.png">
+
 Weiter zur [Installation](mate-installation.md)

@@ -23,6 +23,14 @@ Falls Sie nur die Meldung _"You can set a Theme Licence in Layout -> Themes."_ s
 
 <img src="_images/mate-theme/lizenz/lizenz_registrieren_shortcode.png">
 
+#### Copyright-Hinweis entfernen
+
+Haben Sie eine Lizenz erworben, können Sie im Contao-Backend den Copyright-Hinweis, der in einem Artikel platziert ist, entfernen.
+
+Navigieren Sie zur **Artikelansicht** und suchen unter **ODD Elements - 02 / Fußzeile** den Artikel **02/05 Copyright-Hinweis** und bearbeiten diesen über das Stift-Icon. Dort ist ein Textelement platziert, welches Sie bearbeiten können.
+
+<img src="_images/odd-theme/lizenz/copyright_hinweis_entfernen.png">
+
 <hr style="border:1px solid #e6e6e6">
 
 Weiter zur [Installation](odd-installation.md)

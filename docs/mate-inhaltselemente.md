@@ -33,6 +33,8 @@ Dem Element vom Typ **Umschlag Anfang** müssen Sie unter den **Experten-Einstel
 
 Beim Element vom Typ **Umschlag Ende** wählen Sie noch das Template `ce_sliderStop_mate` aus.
 
+Ein Beispiel finden Sie in der MATE Theme Demo auf der Seite [Content Slider](https://mate.pdir.de/inhaltselemente/content-slider.html).
+
 **So sollte der Content Slider aussehen:**
 
 ![](_images/mate-theme/contao-elemente/content-slider-text-und-bild.png)  

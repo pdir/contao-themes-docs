@@ -25,6 +25,26 @@ Wenn dem Umschlag-Anfang-Element die Klasse **smaller** vergeben wird, wird der 
 
 Es ist möglich Newsbeiträge in einem Slider darzustellen. Weitere Infos dazu finden Sie auf der Seite [Theme-Elemente](/mate-theme-elemente.md) unter News-Slider.
 
+#### Content-Slider mit Bild und Text darunter
+
+Um einen Content Slider wie im folgenden Beispiel anzulegen, platzieren Sie **Textelemente** innerhalb der Elemente **Content-Slider (Umschlag Anfang)** und **Content-Slider (Umschlag Ende)**. 
+
+Dem Element vom Typ **Umschlag Anfang** müssen Sie unter den **Experten-Einstellungen** beim zweiten Eingabefeld die Klassen `slider slider-text-below-image` geben sowie bei den **Template-Einstellungen** das Template `ce_sliderStart_mate` auswählen. 
+
+Beim Element vom Typ **Umschlag Ende** wählen Sie noch das Template `ce_sliderStop_mate` aus.
+
+**So sollte der Content Slider aussehen:**
+
+![](_images/mate-theme/contao-elemente/content-slider-text-und-bild.png)  
+
+**Platzierung der Elemente:**
+
+![](_images/mate-theme/contao-elemente/content-slider-text-und-bild-elemente.png)  
+
+**Auswahl des Templates und Vergeben der Klassen im Umschlag-Start-Element:**
+
+![](_images/mate-theme/contao-elemente/content-slider-text-und-bild-template-klassen.png)
+
 ## Hyperlinks
 
 Wenn ein Link wie ein Button \(weiße Schrift auf grünen Hintergrund\) aussehen soll, müssen Sie dem Link die Klasse **btn** geben.

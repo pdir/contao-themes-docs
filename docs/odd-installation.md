@@ -5,6 +5,9 @@
 
 Das Theme kann nur in einer leeren Contao-Installation installiert werden und ist mit Contao 4.4.x oder höher kompatibel.
 
+<div class="info-box">
+Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> notwendig und nicht bei einem Update des Odd Themes. Wenn Sie das Theme aktualisieren wollen, können Sie das ganz einfach über den Contao Manager durchführen. Anschließend rufen Sie das Install-Tool auf und aktualisieren die Datenbank. Ein <strong>Backup der Datenbank</strong> kann nie schaden!</div>
+
 ---
 
 ## Schritte
@@ -25,6 +28,8 @@ Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im In
 Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen Sie in der linken Navigation unter **PDIR THEMES** den Menüpunkt **ODD Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren**. Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner odd angelegt und die SQL-Dateien zum Importieren der Datenbank in den templates-Ordner kopiert.
 
 Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den Button **Tabelle 'tl\_files' leeren** klicken. Dieser Schritt muss vor dem Importieren der Datenbank erfolgen.
+
+<div class="info-box">Mit dem Leeren der <strong>tl_files</strong> Tabelle werden die Bilder-Verknüpfungen gelöscht. Das ist nur bei der ersten Installation des Themes notwendig.</div>
 
 ![](_images/odd-theme/installation/odd_installation_schritt3.png)
 

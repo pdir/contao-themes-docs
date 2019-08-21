@@ -6,7 +6,7 @@
 Das Theme kann nur in einer **leeren Contao-Installation** installiert werden und ist mit **Contao 4.4.x oder höher** kompatibel.
 
 <div class="info-box">
-Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> notwendig und nicht bei einem Update des Mate Themes. Wenn Sie das Theme aktualisieren wollen, können Sie das ganz einfach über den Contao Manager durchführen. Anschließend rufen Sie das Install-Tool auf und aktualisieren die Datenbank. Ein <strong>Backup der Datenbank</strong> kann nie schaden!</div>
+Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> notwendig und nicht bei einem Update des Mate Themes. Wenn Sie das Theme aktualisieren wollen, können Sie das ganz einfach über den Contao Manager durchführen. Anschließend rufen Sie das Install-Tool auf und aktualisieren die Datenbank. <br><br>Ein <strong>Backup der Datenbank</strong> kann nie schaden! <br><br>Wenn Sie von der Version 1.x auf 2.x updaten wollen, beachten Sie unsere <a href="#/mate-update-version-2.0">Hinweise</a> dazu.</div>
 
 ## Wichtige Schritte
 

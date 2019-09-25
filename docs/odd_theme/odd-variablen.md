@@ -15,7 +15,7 @@ Das ODD Theme wird standardmäßig mit einem grünen Layout ausgeliefert. Sie ha
 
 Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_colors.scss** die entsprechende Zeile bei **Colour Schemes** aus \(Schrägstriche entfernen\). Gegebenenfalls müssen Sie die Seite mit Strg + F5 neuladen, damit die Änderung greift.
 
-![](_images/odd-theme/einrichtung/ODD_theme_colors.jpg)
+![](../_images/odd-theme/einrichtung/ODD_theme_colors.jpg)
 
 ## Variablen der \_custom\_colors.scss
 

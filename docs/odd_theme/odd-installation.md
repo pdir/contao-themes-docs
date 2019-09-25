@@ -31,7 +31,7 @@ Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den B
 
 <div class="info-box">Mit dem Leeren der <strong>tl_files</strong> Tabelle werden die Bilder-Verknüpfungen gelöscht. Das ist nur bei der ersten Installation des Themes notwendig.</div>
 
-![](_images/odd-theme/installation/odd_installation_schritt3.png)
+![](../_images/odd-theme/installation/odd_installation_schritt3.png)
 
 ---
 
@@ -39,11 +39,11 @@ Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den B
 
 Rufen Sie nun das Install-Tool auf. Unter dem Reiter "Ein Template importieren" können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei für Ihre Contao-Version aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf **Ein Template importieren**.
 
-![](_images/odd-theme/installation/odd_installation_schritt4_db_importieren.png)
+![](../_images/odd-theme/installation/odd_installation_schritt4_db_importieren.png)
 
 Wenn die Datenbank erfolgreich importiert wurde, sollten Sie eine Meldung, dass ein Template importiert wurde, wie im folgenden Screenshot, erhalten.
 
-![](_images/odd-theme/installation/odd_installation_schritt4_db_importieren_erfolgreich.png)
+![](../_images/odd-theme/installation/odd_installation_schritt4_db_importieren_erfolgreich.png)
 
 Alternativ können Sie die sql-Datei auch über phpMyAdmin importieren.
 
@@ -53,7 +53,7 @@ Alternativ können Sie die sql-Datei auch über phpMyAdmin importieren.
 
 Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **Systemwartung** aus und erstellen die Symlinks neu, indem Sie die Checkbox bei **Symlinks neu erstellen** auswählen und anschließend den Button **Daten bereinigen** betätigen.
 
-![](_images/odd-theme/installation/odd_installation_schritt5.png)
+![](../_images/odd-theme/installation/odd_installation_schritt5.png)
 
 ---
 
@@ -61,10 +61,8 @@ Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **S
 
 In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. In Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
 
-![](_images/odd-theme/installation/odd_installation_schritt6_ordner_urls.png)
+![](../_images/odd-theme/installation/odd_installation_schritt6_ordner_urls.png)
 
 Unter **Erweiterte CSS-Einstellungen** müssen SIe noch das Klassen-Set **bootstrap4.json** auswählen.
 
-![](_images/odd-theme/installation/odd_installation_schritt6_advanced_classes.png)
-
-Damit ist die Installation des Themes fertig und Sie können mit der [Einrichtung](odd-einrichtung.md) beginnen.
+![](../_images/odd-theme/installation/odd_installation_schritt6_advanced_classes.png)

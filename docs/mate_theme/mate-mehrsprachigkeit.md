@@ -11,20 +11,20 @@ Wenn Sie die Seitenstruktur nicht duplizieren wollen, installieren Sie über den
 
 In der Root-Seite der Seitenstruktur können Sie bei **i18nl10n-Einstellungen** die alternativen Sprachen auswählen.
 
-<img src="_images/mate-theme/mehrsprachigkeit/i18nl10n_seitenstruktur_einstellungen.png">
+<img src="../_images/mate-theme/mehrsprachigkeit/i18nl10n_seitenstruktur_einstellungen.png">
 
 Unter dem Menüpunkt **Mehrsprachige Webseiten** fügen Sie die Seiten in den anderen Sprachen hinzu. Wenn Sie alle Seiten anlegen wollen, klicken Sie auf **L10N für alle**.
 
-<img src="_images/mate-theme/mehrsprachigkeit/i18nl10n_mehrsprachige_seiten.png">
+<img src="../_images/mate-theme/mehrsprachigkeit/i18nl10n_mehrsprachige_seiten.png">
 
 In den Elementen gibt es nun unter **L10n Einstellungen** die Möglichkeit die jeweilige Sprache auszuwählen. Wählen Sie Neutral, wenn das Element in allen Sprachen angezeigt werden soll.
 
-<img src="_images/mate-theme/mehrsprachigkeit/i18nl10n_elemente_einstellungen.png">
+<img src="../_images/mate-theme/mehrsprachigkeit/i18nl10n_elemente_einstellungen.png">
 
-<img src="_images/mate-theme/mehrsprachigkeit/i18nl10n_elemente.png">
+<img src="../_images/mate-theme/mehrsprachigkeit/i18nl10n_elemente.png">
 
 ## Duplizieren der Seitenstruktur
 
 Wenn Sie lieber mit mehreren Seitenstrukturen arbeiten möchten, muss unter **MATE Elements** in den **Artikeleinstellungen** bei **Template-Einstellungen** die entsprechende Root-Seite ausgewählt werden.
 
-<img src="_images/mate-theme/mehrsprachigkeit/mate_elements_seitenname.png">
+<img src="../_images/mate-theme/mehrsprachigkeit/mate_elements_seitenname.png">

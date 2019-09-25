@@ -7,7 +7,7 @@ Die kostenpflichtige Lizenz können Sie auf [contao-themes.net](https://contao-t
 
 Nach erfolgreicher Zahlung erhalten Sie von uns eine E-Mail mit der Theme-Lizenz, einer Rechnung sowie weiterer Details.
 
-Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](mate-installation.md) und verwenden, solange Sie noch keine Lizenz erhalten haben.
+Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](mate_theme/mate-installation.md) und verwenden, solange Sie noch keine Lizenz erhalten haben.
 
 #### Lizenz registrieren
 
@@ -32,5 +32,3 @@ Haben Sie eine Lizenz erworben, können Sie im Contao-Backend den Copyright-Hinw
 Navigieren Sie zur **Artikelansicht** und suchen unter **MATE Elements - 05 Footer** den Artikel **05/05 footer bottom** und bearbeiten diesen über das Stift-Icon. Dort ist ein Textelement platziert, welches Sie bearbeiten können.
 
 <img src="_images/mate-theme/lizenz/copyright_hinweis_entfernen.png">
-
-Weiter zur [Installation](mate-installation.md)

@@ -7,7 +7,7 @@ Die kostenpflichtige Lizenz können Sie auf [contao-themes.net](https://contao-t
 
 Nach erfolgreicher Zahlung erhalten Sie von uns per E-Mail eine Rechnung.
 
-Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](odd-installation.md) und verwenden, solange Sie noch keine Lizenz erhalten haben.
+Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](odd_theme/odd-installation.md) und verwenden, solange Sie noch keine Lizenz erhalten haben.
 
 #### Lizenz registrieren
 
@@ -17,11 +17,11 @@ Wenn Sie die Theme-Lizenz über <a href="https://themes.contao.org">themes.conta
 
 Wenn Sie eine Lizenz erworben und das ODD Theme bereits installiert haben, können Sie diese im Backend unter dem Menüpunkt **Themes** registrieren. Klicken Sie auf **Theme Domain aktivieren**, geben Ihre Domain ein und klicken anschließend auf **Check Domain**. Wenn die Domain erfolgreich registriert wurde, sehen Sie eine Meldung mit **Domain registered**. Wenn Sie die Seite neuladen, sollte es wie im folgenden Screenshot aussehen.
 
-<img src="_images/mate-theme/lizenz/lizenz_registrieren.png">
+<img src="../_images/mate-theme/lizenz/lizenz_registrieren.png">
 
 Falls Sie nur die Meldung _"You can set a Theme Licence in Layout -> Themes."_ sehen, wenn Sie auf den Button **Theme Domain aktivieren** klicken, dann müssen Sie das **Theme bearbeiten** und im Feld **Theme Code** _odd_ eintragen (siehe folgender Screenshot). Danach sollte das Eingabefeld, um die Domain einzutragen, zu sehen sein.
 
-<img src="_images/mate-theme/lizenz/lizenz_registrieren_shortcode.png">
+<img src="../_images/mate-theme/lizenz/lizenz_registrieren_shortcode.png">
 
 #### Copyright-Hinweis entfernen
 
@@ -29,8 +29,4 @@ Haben Sie eine Lizenz erworben, können Sie im Contao-Backend den Copyright-Hinw
 
 Navigieren Sie zur **Artikelansicht** und suchen unter **ODD Elements - 02 / Fußzeile** den Artikel **02/05 Copyright-Hinweis** und bearbeiten diesen über das Stift-Icon. Dort ist ein Textelement platziert, welches Sie bearbeiten können.
 
-<img src="_images/odd-theme/lizenz/copyright_hinweis_entfernen.png">
-
-<hr style="border:1px solid #e6e6e6">
-
-Weiter zur [Installation](odd-installation.md)
+<img src="../_images/odd-theme/lizenz/copyright_hinweis_entfernen.png">

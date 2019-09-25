@@ -3,7 +3,7 @@
 
 ## CSS-Anpassungen
 
-Wie Sie Farben und Schriften sowie eigenes CSS definieren können, ist auf der Seite [Farben und Schriften](/mate-farben-und-schriften.md) erklärt.
+Wie Sie Farben und Schriften sowie eigenes CSS definieren können, ist auf der Seite [Farben und Schriften](mate_theme/mate-farben-und-schriften.md) erklärt.
 
 ## JavaScript-Anpassungen
 
@@ -19,15 +19,15 @@ Den Artikel kann man danach über folgenden Insert-Tag in einem **HTML-Element**
 
 ###### Bild 1: Artikel unter MATE Elements
 
-![](_images/mate-theme/theme-helper.png)
+![](../_images/mate-theme/theme-helper.png)
 
 ###### Bild 2: Theme Helper Tag im Artikel auswählen
 
-![](_images/mate-theme/theme-helper-tag.png)
+![](../_images/mate-theme/theme-helper-tag.png)
 
 ###### Bild 3: Artikel über den Theme Helper Tag einbinden
 
-![](_images/mate-theme/theme-helper-tag-einbinden.png)
+![](../_images/mate-theme/theme-helper-tag-einbinden.png)
 
 ## Header anpassen
 
@@ -37,5 +37,5 @@ Das Logo kann im Artikel **01/04 Logo** ausgetauscht werden. Wählen Sie dafür 
 
 ## Footer anpassen
 
-Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](/mate-theme-elemente.md)\) im Modul **Footer**.
+Die Inhalte vom Footer liegen in den Artikeln unter **MATE Elements - 05 Footer**. Wählen Sie dafür im linken Menü Artikel aus und scrollen Sie bis ganz nach unten. Eingebunden sind diese, genau wie die Newsletter-Box \(Infos dazu unter [Theme-Elemente](mate_theme/mate-theme-elemente.md)\) im Modul **Footer**.
 

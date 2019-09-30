@@ -111,6 +111,16 @@ Soll der Slider schmal dargestellt werden (siehe Dokumentation), dann geben Sie 
 
 <img src="../_images/mate-theme/mate-elemente/kundenstimmen_slider_einstellungen_hintergrundbild.png">  
 
+#### Unschärfe beim Hintergrundbild entfernen:
+
+Die Unschärfe des Hintergrundbildes können Sie durch folgendes CSS, das in die **custom.scss** unter **files/mate/sass** eingefügt werden muss, entfernen:
+
+```
+.ce_mateTextBackgroundElement .bg-image {
+    filter: none;
+}
+```
+
 ## News-Slider
 
 Im News-Slider ist es möglich Newsbeiträge in einem Slider darzustellen. Der Slider ist auf der Startseite der Demo-Seite eingebunden. Im Theme ist der Slider im Artikel **Start** in der **Kopfzeile** über den Insert-Tag `{{theme::content::MATE02/01}}` eingebunden.

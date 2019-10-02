@@ -2,7 +2,7 @@
 
 ## Layouts
 
-Unter Themes / Seitenlayouts finden Sie bereits vier verschiedene Layouts, die Sie einer Seite bei den Seiteneinstellungen unter Layout-Einstellungen zuweisen können.
+Unter **Themes / Seitenlayouts** finden Sie bereits vier verschiedene Layouts, die Sie einer Seite bei den Seiteneinstellungen unter **Layout-Einstellungen** zuweisen können.
 
 * Einspaltiges Layout
 * Zweispaltiges Layout mit rechter Spalte
@@ -23,15 +23,30 @@ Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://s
 
 In der **\_custom\_colors.scss** können Sie die Grundfarben des Themes verändern und ein anderes Farbschema auswählen. Wenn Sie eine Variable anpassen möchten, müssen Sie die Zeile auskommentieren (Schrägstriche entfernen).
 
-In der **\_custom\_variables.scss** können Sie individuellere Anpassungen vornehmen, u. a. Schriften austauschen, die Schriftgrößen der Überschriften beeinflussen oder Farben von Elementen und Modulen anpassen. Wenn Sie eine Variable anpassen möchten, müssen Sie die Zeile auskommentieren (Schrägstriche entfernen).
+In der **\_custom\_variables.scss** können Sie individuellere Anpassungen vornehmen, u. a. Schriften austauschen oder Farben von Elementen und Modulen anpassen. Wenn Sie eine Variable anpassen möchten, müssen Sie die Zeile auskommentieren (Schrägstriche entfernen).
 
 Wenn Sie lieber mit CSS-Dateien statt mit SCSS-Dateien arbeiten wollen, können Sie über **Themes - Stylesheets** einen neuen Stylesheet anlegen und ihn im **Layout** bei **Interne Stylesheets** einbinden. Das CSS wird anschließend automatisch nach dem CSS des ODD Theme geladen.
 
 ### Farbschemen
 
-Das Nature Theme wird standardmäßig mit einem hellen Layout und grüner Hauptfarbe ausgeliefert. Sie haben aber auch die Möglichkeit ein dunkles Farbschema auszuwählen.
+Das Nature Theme wird standardmäßig mit einem hellen Layout und grüner Hauptfarbe ausgeliefert. Sie haben aber auch die Möglichkeit andere Farbschemas auszuwählen:
+
+- Helles Farbschema / Grüne Hauptfarbe
+- Helles Farbschema / Rote Hauptfarbe
+- Helles Farbschema / Blaue Hauptfarbe
+- Dunkles Farbschema / Grüne Hauptfarbe
+- Dunkles Farbschema / Rote Hauptfarbe
+- Dunkles Farbschema / Blaue Hauptfarbe
 
 Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_colors.scss** die entsprechende Zeile bei **Colour Schemes** aus \(Schrägstriche entfernen\). Gegebenenfalls müssen Sie die Seite mit Strg + F5 neuladen, damit die Änderung greift.
+
+Um bspw. ein dunkles Farbschema mit roter Hauptfarbe zu aktivieren, kommentieren Sie die Zeile für das rote und dunkle Farbschema jeweils aus, z. B.:
+
+```
+@import 'color_schemes/nature_red_colors';
+//@import 'color_schemes/nature_blue_colors';
+@import 'color_schemes/nature_dark_colors';
+```
 
 #### Variablen der \_custom\_colors.scss
 

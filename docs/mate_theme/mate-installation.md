@@ -45,7 +45,7 @@ Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **S
 
 ## Einstellungen
 
-In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. In Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
+In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. Ab Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
 
 ![](../_images/odd-theme/installation/odd_installation_schritt6_ordner_urls.png)
 Bild 4: Frontend-Einstellungen

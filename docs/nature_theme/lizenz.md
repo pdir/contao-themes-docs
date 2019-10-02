@@ -26,4 +26,6 @@ Falls Sie nur die Meldung _"You can set a Theme Licence in Layout -> Themes."_ s
 
 Haben Sie eine Lizenz erworben, können Sie im Contao-Backend den Copyright-Hinweis, der in einem Artikel platziert ist, entfernen.
 
-Navigieren Sie zur **Artikelansicht** und suchen unter **ODD Elements - 02 / Fußzeile** den Artikel **02/05 Copyright-Hinweis** und bearbeiten diesen über das Stift-Icon. Dort ist ein Textelement platziert, welches Sie bearbeiten können.
+Navigieren Sie zur **Artikelansicht** und suchen unter **Nature Theme Elemente - 02_Footer** (ganz am Ende) den Artikel **02/03 Copyright-Hinweis** und bearbeiten diesen über das Stift-Icon.
+
+<img src="../_images/nature-theme/lizenz/copyright-hinweis-entfernen.png">

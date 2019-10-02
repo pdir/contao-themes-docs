@@ -9,6 +9,8 @@ Folgende Module werden auf dieser Seite erklärt:
 - [Navigation](nature_theme/module?id=navigation)
 - [News](nature_theme/module?id=news)
 
+---
+
 ## Events
 
 #### Eventliste
@@ -28,11 +30,15 @@ Folgende Module werden auf dieser Seite erklärt:
 - `event_full_nature`: Event-Details
 - `event_full_nature_header`: Kopfbild
 
+---
+
 ## Kalender
 
 **Templates:**
 - `cal_default_nature`: Normaler Kalender
 - `cal_mini`: Mini-Kalender
+
+---
 
 ## Modale Dialoge
 
@@ -46,6 +52,8 @@ Um einen Modalen Dialog zu setzen, navigieren Sie zu den Frontend-Modulen und le
 
 ![](../_images/nature-theme/module/modaler_dialog_beispiel.png)
 
+---
+
 ## Navigation
 
 **Navigationstemplates:**
@@ -55,6 +63,8 @@ Um einen Modalen Dialog zu setzen, navigieren Sie zu den Frontend-Modulen und le
 **Individuelle Templates:**
 - `mod_navigation_nature`: Hauptnavigation
 - `mod_navigation_nature_aside`: Unterseiten-Navigation
+
+---
 
 ## News
 

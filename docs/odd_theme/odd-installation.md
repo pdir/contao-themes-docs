@@ -14,8 +14,7 @@ Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> not
 
 ## 1 Theme Odd Bundle installieren:
 
-Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php). Wählen Sie die Schaltfläche **Pakete installieren** aus und geben im Suchfeld **odd theme** ein. Installieren Sie das Bundle **contao-themes-net/odd-theme-bundle**, indem Sie auf den Button **Prüfen & Installieren** klicken und anschließend mit **Änderungen anwenden** die Installation starten.
-
+Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php). Wählen Sie die Schaltfläche **Pakete suchen** aus und geben im Suchfeld **odd theme** ein. Installieren Sie das Bundle **contao-themes-net/odd-theme-bundle**, indem Sie auf den Button **Paket hinzufügen** klicken und anschließend mit **Änderungen überprüfen** die Installation starten.
 
 ---
 
@@ -23,9 +22,11 @@ Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-do
 
 Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 
+Das Install-Tool erreichen Sie im Contao Manager über den Menüpunkt Tools oder über die URL: [www.ihre-domain.de/contao/install](/www.ihre-domain.de/contao/install).
+
 ## 3 Theme-Dateien synchronisieren und Tabelle 'tl\_files' leeren:
 
-Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen Sie in der linken Navigation unter **PDIR THEMES** den Menüpunkt **ODD Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren**. Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner odd angelegt und die SQL-Dateien zum Importieren der Datenbank in den templates-Ordner kopiert.
+Loggen Sie sich mit Ihrem erstellten Benutzer-Account im Backend ein und wählen Sie in der linken Navigation unter **CONTAO-THEMES-NET** den Menüpunkt **ODD Theme Setup** aus. Anschließend klicken Sie auf den Button **Theme-Dateien synchronisieren**. Damit werden alle Dateien in der Dateiverwaltung unter dem Ordner odd angelegt und die SQL-Dateien zum Importieren der Datenbank in den templates-Ordner kopiert.
 
 Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den Button **Tabelle 'tl\_files' leeren** klicken. Dieser Schritt muss vor dem Importieren der Datenbank erfolgen.
 
@@ -59,7 +60,7 @@ Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **S
 
 ## 6 Einstellungen
 
-In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. In Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
+In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. Ab Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
 
 ![](../_images/odd-theme/installation/odd_installation_schritt6_ordner_urls.png)
 

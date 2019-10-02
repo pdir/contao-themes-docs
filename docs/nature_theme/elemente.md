@@ -6,7 +6,6 @@ Folgende Elemente werden auf dieser Seite erklärt:
 - [Buttons](nature_theme/elemente?id=buttons)
 - [Content-Box](nature_theme/elemente?id=content-box)
 - [Content-Slider](nature_theme/elemente?id=content-slider)
-- [Feature-Element](nature_theme/elemente?id=feature-element)
 - [Grid](nature_theme/elemente?id=grid)
 - [Headerbild](nature_theme/elemente?id=headerbild)
 - [Hero-Element](nature_theme/elemente?id=hero-element)
@@ -15,10 +14,11 @@ Folgende Elemente werden auf dieser Seite erklärt:
 - [Tabellen](nature_theme/elemente?id=tabellen)
 - [Tabs](nature_theme/elemente?id=tabs)
 - [Teaserbox](nature_theme/elemente?id=teaserbox)
+- [Text und Icon](nature_theme/elemente?id=text-und-icon)
 
 ## Buttons
 
-Für einen Button platzieren Sie ein Element vom Typ **Hyperlink** und wählen das Template `ce_hyperlink_button` aus. Bei Erweiterte CSS-Klassen können Sie noch weitere Klassen definieren um das Aussehen der Buttons zu verändern, siehe [Bulma Dokumentation](https://bulma.io/documentation/elements/button/).
+Für einen Button platzieren Sie ein Element vom Typ **Hyperlink** und wählen das Template `ce_hyperlink_button` aus. Bei Erweiterte CSS-Klassen können Sie noch weitere Klassen definieren um das Aussehen der Buttons zu verändern, siehe [Bulma Dokumentation](https://bulma.io/documentation/elements/button/). Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/textelemente.html).
 
 ---
 
@@ -39,6 +39,8 @@ Unter **Erweiterte CSS-Klassen** können Sie eine Klasse für die **Hauptfarbe**
 ![](../_images/nature-theme/elemente/advanced-classes-hauptfarben.png)
 
 #### Beispiele
+
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/theme-elemente.html).
 
 ![](../_images/nature-theme/elemente/contentbox.png)
 
@@ -70,35 +72,15 @@ Beim Slider-Element haben Sie die Möglichkeit eine Überschrift, Text, Bild, Ve
 
 ![](../_images/nature-theme/elemente/slider-elementtyp.png)
 
-Zusätzlich haben Sie bei **CSS-Stil Auswahl** auch noch die Wahl zwischen einem dunkleren Bild oder weißen Text. Wenn Sie keine der Klassen auswählen, wird der Text in schwarz dargestellt.
+Zusätzlich haben Sie bei **CSS-Stil Auswahl** auch noch die Wahl zwischen einem dunklen Bild/Video und weißen Text. Wenn Sie keine der Klassen auswählen, wird der Text in schwarz dargestellt.
 
 ![](../_images/nature-theme/elemente/slider-element-klassen.png)
 
 #### Beispiel
 
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/content-slider.html).
+
 <img src="../_images/nature-theme/elemente/slider-element-beispiel.png" width="500">
-
----
-
-## Feature-Element
-
-#### Element platzieren
-
-Platzieren Sie ein Element vom Typ **Text und Icon**.
-
-![](../_images/nature-theme/elemente/text-icon-elementtyp.png)
-
-Sie können eine Überschrift, einen Text sowie das Font-Awesome Icon und ggf. einen Link definieren. Eine Liste mit den möglichen Icons finden Sie auf der Seite von [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free). Wenn Sie ein Icon anklicken, sehen Sie oben auch die Klassen, die Sie in das Eingabefeld **Font Awesome 5 Icon (Klassen)** einfügen müssen.
-
-![](../_images/odd-theme/elemente/text_und_icon_eingabemaske.png)
-
-#### Element mit Hintergrund
-
-Wenn das Element einen Hintergrund wie im folgenden Screenshot erhalten soll, wählen Sie unter den **Template-Einstellungen** `ce_cthemes_feature_element_nature` aus.
-
-#### Beispiele
-
-![](../_images/nature-theme/elemente/text-icon-beispiele.png)
 
 ---
 
@@ -128,6 +110,8 @@ Zusätzlich können Sie auch noch weitere Klassen definieren, u. a. Spaltenbreit
 
 #### Beispiel
 
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/textelemente.html).
+
 ![](../_images/nature-theme/elemente/grid-beispiel.png)
 
 ---
@@ -152,7 +136,15 @@ Bei **CSS-Stil Auswahl** haben Sie optional die Auswahl zwischen einem dunkleren
 
 #### Beispiele
 
+Beispiele finden Sie in der Demo: [Headerbild dunkel](https://nature.contao-themes.net/headerbild-dunkel.html), [Headerbild hell](https://nature.contao-themes.net/headerbild-hell.html), [großes Headerbild dunkel](https://nature.contao-themes.net/grosses-headerbild.html), [großes Headerbild hell](https://nature.contao-themes.net/grosses-headerbild-hell.html).
+
+Dunkel:
+
 <img src="../_images/nature-theme/elemente/headerbild-normal-beispiel.png" width="350"> <img src="../_images/nature-theme/elemente/headerbild-gross-beispiel.png" width="350">
+
+Hell:
+
+<img src="../_images/nature-theme/elemente/headerbild-normal-hell-beispiel.png" width="350"> <img src="../_images/nature-theme/elemente/headerbild-gross-hell-beispiel.png" width="350">
 
 ---
 
@@ -170,6 +162,8 @@ Unter **Erweiterte CSS-Klassen** können Sie eine Klasse für die **Hauptfarbe**
 
 #### Beispiele
 
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/textelemente.html).
+
 <img src="../_images/nature-theme/elemente/hero-element-beispiele.png" width="500">
 
 ---
@@ -182,6 +176,8 @@ Beim Elementtyp Aufzählung haben Sie neben einer nummerierten und unnummerierte
 - **ce_list_alphabetic_uppercase:** Alphabetisch und Großbuchstaben
 - **ce_list_roman_lowercase:** Römische Ziffern und Kleinbuchstaben
 - **ce_list_roman_uppercase:** Römische Ziffern und Großbuchstaben
+
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/textelemente.html).
 
 ---
 
@@ -197,6 +193,8 @@ Um eine Box hervorgehoben darzustellen, füllen Sie das Eingabefeld **Bezeichnun
 
 #### Beispiele
 
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/theme-elemente.html).
+
 <img src="../_images/nature-theme/elemente/preistabelle-beispiel-1.png" width="350"> <img src="../_images/nature-theme/elemente/preistabelle-beispiel-2.png" width="350">
 
 ---
@@ -211,6 +209,8 @@ Folgende Klassen können Sie beim Elementtyp Tabelle definieren:
 - `table is-hoverable`: mit Hover
 
 Alle Klassen können Sie auch miteinander kombinieren, z. B.: `table is-bordered is-striped is-narrow is-hoverable`.
+
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/textelemente.html).
 
 ---
 
@@ -242,6 +242,8 @@ Beispiel der platzierten Elemente im Backend:
 
 #### Beispiel
 
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/theme-elemente.html).
+
 ![](../_images/nature-theme/elemente/tabs-beispiel.png)
 
 ---
@@ -254,6 +256,8 @@ Um eine Teaser-Box hinzuzufügen, platzieren Sie ein Element vom Typ **Teaser Bo
 
 ![](../_images/nature-theme/elemente/teaserbox-elementtyp.png)
 
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/theme-elemente.html).
+
 #### Sticky/Full Height Teaserbox
 
 Für eine Teaserbox, wie im folgenden Screenshot, wählen Sie das Template `ce_cthemes_teaserbox_fullheight` aus. Wenn Sie unter Experteneinstellungen bei CSS-Stil Auswahl Sticky Teaserbox auswählen, bleiben die Bilder am oberen Bildschirmrand "kleben", wenn man nach unten scrollt.
@@ -265,3 +269,27 @@ Für eine Teaserbox, wie im folgenden Screenshot, wählen Sie das Template `ce_c
 Für eine Teaserbox, wie im folgenden Screenshot, wählen Sie das Template `ce_cthemes_teaserbox_nature` aus.
 
 ![](../_images/nature-theme/elemente/teaserbox-beispiel-2.png)
+
+---
+
+## Text und Icon
+
+#### Element platzieren
+
+Platzieren Sie ein Element vom Typ **Text und Icon**.
+
+![](../_images/nature-theme/elemente/text-icon-elementtyp.png)
+
+Sie können eine Überschrift, einen Text sowie das Font-Awesome Icon und ggf. einen Link definieren. Eine Liste mit den möglichen Icons finden Sie auf der Seite von [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free). Wenn Sie ein Icon anklicken, sehen Sie oben auch die Klassen, die Sie in das Eingabefeld **Font Awesome 5 Icon (Klassen)** einfügen müssen.
+
+![](../_images/odd-theme/elemente/text_und_icon_eingabemaske.png)
+
+#### Element mit Hintergrund
+
+Wenn das Element einen Hintergrund wie im folgenden Screenshot erhalten soll, wählen Sie unter den **Template-Einstellungen** `ce_cthemes_feature_element_nature` aus.
+
+#### Beispiele
+
+Beispiele finden Sie in der [Demo](https://nature.contao-themes.net/theme-elemente.html).
+
+![](../_images/nature-theme/elemente/text-icon-beispiele.png)

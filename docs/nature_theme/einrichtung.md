@@ -18,6 +18,4 @@ In den **Artikel-Einstellungen** des jeweiligen Artikels (Werkzeug-Icon\) wählt
 
 ![](../_images/nature-theme/einrichtung/theme_helper_tag.png)
 
-Den Artikel kann man danach über folgenden Insert-Tag u. a. in einem **HTML-Element** oder einem **Template** platzieren: z. B.  `{{theme::content::NATURE01/01}}`. Im folgenden Beispiel wurden die Insert-Tags für die Darstellung des Footers genutzt.
-
-![](../_images/nature-theme/einrichtung/theme_helper_inserttag_nutzen.png)
+Den Artikel kann man danach über folgenden Insert-Tag u. a. in einem **HTML-Element** oder einem **Template** platzieren: z. B.  `{{theme::content::NATURE01/01}}`.

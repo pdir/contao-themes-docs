@@ -2,7 +2,7 @@
 
 ## Voraussetzungen
 
-Das Theme kann nur in einer leeren Contao-Installation installiert werden und ist mit Contao 4.4.x oder höher kompatibel.
+Das Theme kann nur in einer leeren Contao-Installation installiert werden und ist mit Contao 4.4 oder höher kompatibel.
 
 <div class="info-box">
 Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> notwendig und nicht bei einem Update des Themes. Wenn Sie das Theme aktualisieren wollen, können Sie das ganz einfach über den Contao Manager durchführen. Anschließend rufen Sie das Install-Tool auf und aktualisieren die Datenbank. <br><br>Ein <strong>Backup der Datenbank</strong> kann nie schaden!</div>
@@ -47,7 +47,7 @@ Anschließend wechseln Sie wieder ins Contao-Backend, wählen den Menüpunkt **S
 
 ### 6 / Einstellungen
 
-In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. In Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
+In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item** und **Ordner-URLs verwenden** aktivieren. Ab Contao 4.7 gibt es die Einstellung Auto_Item aktivieren im Backend nicht mehr, es ist immer standardmäßig aktiv.
 
 ![](../_images/odd-theme/installation/odd_installation_schritt6_ordner_urls.png)
 

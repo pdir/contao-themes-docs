@@ -48,6 +48,16 @@ Um bspw. ein dunkles Farbschema mit roter Hauptfarbe zu aktivieren, kommentieren
 @import 'color_schemes/nature_dark_colors';
 ```
 
+#### Dark Mode für iOS
+
+In iOS 13 haben Sie die Möglichkeit den Dark Mode bzw. Dunkelmodus zu aktivieren, der die Benutzeroberfläche in einen schwarzen Hintergrund und den Text zur besseren Lesbarkeit in eine hellere Farbe ändert. Wenn Sie den Dark Mode aktivieren wird im Nature Theme automatisch zu einem dunkleren Farbschema geändert, egal welches Farbschema Sie gerade aktiv haben. Dies hat den Vorteil, dass nachts Ihre Augen weniger belastet werden und es besteht eine geringe Chance, dass die Akkulaufzeit damit verbessert werden kann.
+
+In der **\_custom\_colors.scss** können Sie den Dark Mode auch deaktivieren, indem Sie die entsprechende Zeile einkommentieren (zwei Schrägstriche an den Anfang der Zeile).
+
+```
+//@import 'color_schemes/nature_dark_mode';
+```
+
 #### Variablen der \_custom\_colors.scss
 
 | Variable | Bedeutung |

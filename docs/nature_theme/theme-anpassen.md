@@ -19,7 +19,7 @@ Die Inhalte des Footers können Sie in den Artikeln unter **Nature Theme Element
 
 #### Logo anpassen
 
-Im Artikel **01_Logo** sind zwei Logos platziert, jeweils eines für das helle und das dunkle Farbschema. Das zweite Element bekommt dabei noch die Klasse logo-light, damit es entsprechend dem gewählten Farbschema bzw. im Dark Mode angezeigt werden kann. 
+Im Artikel **01_Logo** sind zwei Logos platziert, jeweils eines für das helle Farbschema und das dunkle Farbschema bzw. dem Dark Mode. Das zweite Element bekommt dabei noch die Klasse **logo-light**, damit es entsprechend dem gewählten Farbschema bzw. im Dark Mode angezeigt werden kann. 
 
 ![](../_images/nature-theme/elemente/logo_artikel.png)
 

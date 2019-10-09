@@ -17,6 +17,12 @@ Die Inhalte des Footers können Sie in den Artikeln unter **Nature Theme Element
 
 ![](../_images/nature-theme/einrichtung/nature_elemente_fuer_inserttag.png)
 
+#### Logo anpassen
+
+Im Artikel **01_Logo** sind zwei Logos platziert, jeweils eines für das helle und das dunkle Farbschema. Das zweite Element bekommt dabei noch die Klasse logo-light, damit es entsprechend dem gewählten Farbschema bzw. im Dark Mode angezeigt werden kann. 
+
+![](../_images/nature-theme/elemente/logo_artikel.png)
+
 ## Variablen
 
 Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)-Dateien in der Dateiverwaltung unter dem Pfad **naturetheme/scss**. Für individuelle Anpassungen nutzen Sie einfach die **custom.scss**, in der Sie sowohl SCSS oder auch normales CSS schreiben können, sowie die **\_custom\_colors.scss** und **\_custom\_variables.scss**.

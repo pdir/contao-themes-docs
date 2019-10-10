@@ -1,6 +1,7 @@
 
 - [Mate Theme](mate_theme/index.md)
 - [Odd Theme](odd_theme/index.md)
+- [Nature Theme](nature_theme/index.md)
 
 ---
 

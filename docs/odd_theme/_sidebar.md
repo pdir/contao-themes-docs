@@ -10,6 +10,7 @@
   - [Module](odd_theme/odd-module.md)
   - [Mehrsprachigkeit](odd_theme/odd-mehrsprachigkeit.md)
   - [Andere Erweiterungen](odd_theme/odd-andere-erweiterungen.md)
+- [Nature Theme](nature_theme/index.md)
 
 ---
 

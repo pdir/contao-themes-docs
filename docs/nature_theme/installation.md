@@ -13,7 +13,9 @@ Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> not
 
 ### 1 / Nature Theme Bundle installieren
 
-Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php). Wählen Sie die Schaltfläche **Pakete suchen** aus und geben im Suchfeld **nature theme** ein. Installieren Sie das Bundle **contao-themes-net/nature-theme-bundle**, indem Sie auf den Button **Paket hinzufügen** klicken und anschließend mit **Änderungen überprüfen** die Installation starten.
+Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php). Wählen Sie die Schaltfläche **Entdecken** aus und geben im Suchfeld **nature theme** ein. Fügen Sie das Bundle **contao-themes-net/nature-theme-bundle** hinzu, navigieren zum Menüpunkt **Pakete** und klicken ganz unten auf den Button **Änderungen anwenden**. Jetzt sollte die Installation starten.
+
+<img src="../_images/nature-theme/installation/installation_1.png" style="width: 49%;margin-right:1%;display:inline-block;"><img src="../_images/nature-theme/installation/installation_2.png" style="width: 49%;margin-left:1%;display:inline-block;">
 
 ### 2 / Datenbank aktualisieren
 

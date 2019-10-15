@@ -59,5 +59,5 @@ Unter **Erweiterte CSS-Einstellungen** müssen SIe noch das Klassen-Set **bulma.
 
 ## Bekannte Probleme
 
-**Mittwald: Es werden manche Bilder nicht angezeigt**
+**Mittwald: Es werden manche Bilder nicht angezeigt**  
 Lösung: Stellen Sie Ihre PHP-Version von FPM auf CGI um (unter Tools > Softwaremanager > Skriptsprachen).

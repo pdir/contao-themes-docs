@@ -56,3 +56,8 @@ In den **Einstellungen** müssen Sie unter Frontend-Einstellungen **Auto\_item**
 Unter **Erweiterte CSS-Einstellungen** müssen SIe noch das Klassen-Set **bulma.json** auswählen.
 
 ![](../_images/nature-theme/installation/advanced_classes.png)
+
+## Bekannte Probleme
+
+**Mittwald: Es werden manche Bilder nicht angezeigt**
+Lösung: Stellen Sie Ihre PHP-Version von FPM auf CGI um (unter Tools > Softwaremanager > Skriptsprachen).

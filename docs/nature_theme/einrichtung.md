@@ -4,6 +4,8 @@
 
 Wie Sie das Theme anpassen (z. B. Farben, Schriften, Schriftgrößen, Header, Footer) sowie eigenes CSS definieren können, ist auf der Seite [Theme anpassen](nature_theme/theme-anpassen.md) erklärt.
 
+Alle Seiten unter Module, Layouts und Elemente sind für Suchmaschinen standardmäßig als nicht indexierbar eingestellt und erscheinen auch nicht in den Suchergebnissen der Contao-Suchmaschine. Dies können Sie bei jeder Seite bei den Feldern **Robots-Tag** (unter Metadaten) und **Nicht Durchsuchen** (unter Sucheinstellungen) ändern.
+
 ## JavaScript-Anpassungen
 
 Für eigenes JavaScript legen Sie sich bitte eine eigene Datei an und binden diese im Theme ein.

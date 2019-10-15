@@ -23,7 +23,7 @@ Im Artikel **01_Logo** sind zwei Logos platziert, jeweils eines für das helle F
 
 ![](../_images/nature-theme/elemente/logo_artikel.png)
 
-## Variablen
+## Styling anpassen
 
 Wenn das Theme erfolgreich installiert wurde, befinden sich die [SCSS](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)-Dateien in der Dateiverwaltung unter dem Pfad **naturetheme/scss**. Für individuelle Anpassungen nutzen Sie einfach die **custom.scss**, in der Sie sowohl SCSS oder auch normales CSS schreiben können, sowie die **\_custom\_colors.scss** und **\_custom\_variables.scss**.
 
@@ -94,3 +94,9 @@ In der **\_custom\_variables.scss** sind bereits diverse Variablen definiert um 
 [Unterseiten-Navigation](https://bulma.io/documentation/components/menu/#variables)  
 [Tabellen](https://bulma.io/documentation/elements/table/#variables)  
 [Tabs](https://bulma.io/documentation/components/tabs/#variables)  
+
+## Bildgrößen
+
+Ab Contao 4.8 haben Sie bei den Bildgrößen die Möglichkeit die Bilder per WEBP auszuliefern. Das können Sie unter **Themes** > **Bildgrößen des Theme bearbeiten** (zweitletztes Icon) > **Einstellungen der Bildgröße bearbeiten** (zweites Icon) unter den **Experten-Einstellungen** einstellen. Beim Demodaten-Import ist dies standardmäßig nicht aktiv, da es nicht bei jedem Hosting-Paket unterstützt wird.
+
+![](../_images/nature-theme/einrichtung/webp_aktivieren.png)

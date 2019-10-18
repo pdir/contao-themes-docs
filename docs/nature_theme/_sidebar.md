@@ -9,6 +9,7 @@
   - [Artikel](nature_theme/artikel.md)
   - [Elemente](nature_theme/elemente.md)
   - [Module](nature_theme/module.md)
+  - [Pagespeed-Optimierung](nature_theme/pagespeed.md)
   - [Andere Erweiterungen](nature_theme/andere-erweiterungen.md)
 
 ---

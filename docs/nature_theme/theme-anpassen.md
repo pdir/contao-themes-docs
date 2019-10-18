@@ -94,9 +94,3 @@ In der **\_custom\_variables.scss** sind bereits diverse Variablen definiert um 
 [Unterseiten-Navigation](https://bulma.io/documentation/components/menu/#variables)  
 [Tabellen](https://bulma.io/documentation/elements/table/#variables)  
 [Tabs](https://bulma.io/documentation/components/tabs/#variables)  
-
-## Bildgrößen
-
-Ab Contao 4.8 haben Sie bei den Bildgrößen die Möglichkeit die Bilder per WEBP auszuliefern. Das können Sie unter **Themes** > **Bildgrößen des Theme bearbeiten** (zweitletztes Icon) > **Einstellungen der Bildgröße bearbeiten** (zweites Icon) unter den **Experten-Einstellungen** einstellen. Beim Demodaten-Import ist dies standardmäßig nicht aktiv, da es nicht bei jedem Hosting-Paket unterstützt wird.
-
-![](../_images/nature-theme/einrichtung/webp_aktivieren.png)

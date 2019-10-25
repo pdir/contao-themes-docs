@@ -30,7 +30,9 @@ Bild 2: Theme-Dateien synchronisieren
 
 ### Datenbank importieren
 
-Rufen Sie nun das Install-Tool auf. Unter dem Reiter **Ein Template importieren **\(siehe folgender Screenshot\) können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei für Ihre Contao-Version aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf Ein Template importieren.
+Rufen Sie nun das Install-Tool auf. Unter dem Reiter **Ein Template importieren** (siehe folgender Screenshot) können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei für Ihre Contao-Version aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf Ein Template importieren.
+
+Wenn Sie die minimale Contao-Version installiert haben (ohne Events, News, FAQ, Newsletter, Auflistungen), dann importieren Sie die SQL-Datei mit dem Namen ``mate_theme_contao_demo_4.x.x-minimal-installtool.sql``. In dieser SQL-Datei ist u. a. auch der News-Slider auf der Startseite nicht enthalten.
 
 Wenn die Datenbank erfolgreich importiert wurde, sollten Sie eine Meldung, dass ein Template importiert wurde, wie im folgenden Screenshot, erhalten.
 

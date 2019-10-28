@@ -40,6 +40,8 @@ Danach müssen die die Datenbank-Tabelle 'tl\_files' leeren, indem Sie auf den B
 
 Rufen Sie nun das Install-Tool auf. Unter dem Reiter "Ein Template importieren" können Sie eine .sql-Datei aus dem templates-Verzeichnis importieren. Wählen Sie die Datei für Ihre Contao-Version aus und aktivieren Sie den Haken **Tabellen nicht leeren**. Anschließend klicken Sie auf **Ein Template importieren**.
 
+Wenn Sie die minimale Contao-Version installiert haben (ohne Events, News, FAQ, Newsletter, Auflistungen), dann importieren Sie die SQL-Datei mit dem Namen ``odd_theme_contao_demo_4.x.x_minimal_installtool.sql``.
+
 ![](../_images/odd-theme/installation/odd_installation_schritt4_db_importieren.png)
 
 Wenn die Datenbank erfolgreich importiert wurde, sollten Sie eine Meldung, dass ein Template importiert wurde, wie im folgenden Screenshot, erhalten.

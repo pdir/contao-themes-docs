@@ -50,6 +50,6 @@ Platzieren Sie die Module für die Listenansicht und das Exposé unter den jewei
 
 <img src="/_images/odd-theme/module/oddtheme_maklermodul_artikel.png" style="max-width:500px;">
 
-Bei den Artikeln für das Kopfbild und die Detailansicht müssen Sie in den Artikel-Einstellungen unter Template-Einstellungen das Template **mod_article_fullwidth** auswählen.
+Bei den Artikeln für das Kopfbild und die Detailansicht müssen Sie in den Artikel-Einstellungen (Werkzeug-Icon) unter Template-Einstellungen das Template **mod_article_fullwidth** auswählen.
 
 <img src="/_images/odd-theme/module/oddtheme_maklermodul_artikel_fullwidth.png" style="max-width:500px;">

@@ -54,6 +54,17 @@ Bei den Artikeln für das Kopfbild und die Detailansicht müssen Sie in den Arti
 
 <img src="/_images/odd-theme/module/oddtheme_maklermodul_artikel_fullwidth.png" style="max-width:500px;">
 
+## Anpassungen
+
+### Filter in Listenansicht immer einblenden
+
+Wenn die Filter in der Listenansicht immer eingeblendet werden sollen und nicht erst durch einen Klick auf den Button "Filter ausklappen", können Sie das durch eine kleine Template-Anpassung lösen. Legen Sie dafür das Template **makler_list_odd** an und entfernen Sie etwa bei Zeile 41 die folgenden zwei Zeilen:
+
+```
+<a href="<?= $this->staticListPage ?>" class="btn toggle-filter show-filter active">Filter ausklappen</a>
+<a href="<?= $this->staticListPage ?>" class="btn toggle-filter hide-filter">Filter einklappen</a>
+```
+
 ## Beispiele
 
 Wenn Sie alle Schritte wie beschrieben durchgeführt haben, sollte die Liste entsprechend den folgenden Screenshots dargestellt werden.

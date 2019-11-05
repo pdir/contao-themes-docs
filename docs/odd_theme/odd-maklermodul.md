@@ -19,7 +19,7 @@ Fügen Sie folgende Zeile in der **custom.scss** (/files/odd/scss) ein, damit di
 
 ### Seiten anlegen
 
-Legen Sie zuerst eine jeweils eine Seite für die Listen- und Detailansicht an.
+Legen Sie zuerst jeweils eine Seite für die Listen- und Detailansicht an.
 
 ### Listenansicht-Modul
 

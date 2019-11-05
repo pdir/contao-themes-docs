@@ -28,7 +28,7 @@ Legen Sie ein Modul vom Typ **Immobilienliste** entsprechend der [Dokumentation]
 * Immobilien-Template **makler_list_odd** auswählen
 * Bildgröße **Maklermodul / Listenansicht** auswählen
 
-<img src="/_images/odd-theme/module/oddtheme_maklermodul_modul_listenansicht.png" style="max-width:500px;">
+<img src="/docs/_images/odd-theme/module/oddtheme_maklermodul_modul_listenansicht.png" style="max-width:500px;">
 
 ### Detailansicht-Modul
 

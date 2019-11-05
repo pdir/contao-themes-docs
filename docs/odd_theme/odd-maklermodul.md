@@ -46,7 +46,7 @@ Legen Sie ein Modul vom Typ **MaklerModul Kopfbild** entsprechend der [Dokumenta
 
 ### Platzieren der Module
 
-Platzieren Sie die Module für die Listenansicht und das Exposé unter den jeweiligen Seiten in den Artikeln. Legen Sie für das Kopfbild unter der Seite für die Detailansicht noch einen Artikel an, der in der Kopfzeile platziert ist.
+Platzieren Sie die Module für die Listenansicht und das Exposé unter den jeweiligen Seiten in den Artikeln. Legen Sie für das Kopfbild noch einen weiteren Artikel an, der in der Kopfzeile platziert ist (über dem Artikel der Detailansicht).
 
 <img src="/_images/odd-theme/module/oddtheme_maklermodul_artikel.png" style="max-width:500px;">
 

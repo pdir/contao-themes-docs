@@ -28,7 +28,7 @@ Legen Sie ein Modul vom Typ **Immobilienliste** entsprechend der [Dokumentation]
 * Immobilien-Template **makler_list_odd** auswählen
 * Bildgröße **Maklermodul / Listenansicht** auswählen
 
-<img src="../_images/odd-theme/module/oddtheme_maklermodul_modul_listenansicht.png" style="max-width:300px;">
+<img src="../_images/odd-theme/module/oddtheme_maklermodul_modul_listenansicht.png">
 
 ### Detailansicht-Modul
 
@@ -36,13 +36,13 @@ Legen Sie ein Modul vom Typ **Expose** entsprechend der [Dokumentation](https://
 
 * Immobilien-Template **makler_details_extended_odd** auswählen
 
-<img src="../_images/odd-theme/module/oddtheme_maklermodul_modul_expose.png" style="max-width:300px;">
+<img src="../_images/odd-theme/module/oddtheme_maklermodul_modul_expose.png">
 
 ### Kopfbild-Modul
 
 Legen Sie ein Modul vom Typ **MaklerModul Kopfbild** entsprechend der [Dokumentation](https://docs.pdir.de/#/maklermodul/kopfbild_mit_uberschrift) an.
 
-<img src="../_images/odd-theme/module/oddtheme_maklermodul_modul_kopfbild.png" style="max-width:300px;">
+<img src="../_images/odd-theme/module/oddtheme_maklermodul_modul_kopfbild.png">
 
 ### Platzieren der Module
 

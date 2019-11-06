@@ -9,7 +9,7 @@ In der [Maklermodul-Dokumentation](https://docs.pdir.de/#/maklermodul/index) fin
 
 ## Stylesheets einbinden
 
-Fügen Sie folgende Zeile in der **custom.scss** (/files/mate/scss) ein, damit die Listen- und Detailansicht entsprechend den Screenshots dargestellt wird.
+Fügen Sie folgende Zeile in der **custom.scss** (/files/mate/sass) ein, damit die Listen- und Detailansicht entsprechend den Screenshots dargestellt wird.
 
 ```
 @import 'maklermodul';

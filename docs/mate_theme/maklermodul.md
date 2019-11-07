@@ -28,7 +28,7 @@ Legen Sie ein Modul vom Typ **Immobilienliste** entsprechend der [Dokumentation]
 * Immobilien-Template **makler_list_mate** auswählen
 * Bildgröße **Maklermodul / Listenansicht** auswählen
 
-<img src="../_images/mate-theme/module/matetheme_maklermodul_modul_listenansicht.png" style="max-width:300px;">
+<img src="../_images/mate-theme/module/matetheme_maklermodul_modul_listenansicht.png">
 
 ### Detailansicht-Modul
 
@@ -36,19 +36,19 @@ Legen Sie ein Modul vom Typ **Expose** entsprechend der [Dokumentation](https://
 
 * Immobilien-Template **makler_details_extended_mate** auswählen
 
-<img src="../_images/mate-theme/module/matetheme_maklermodul_modul_expose.png" style="max-width:300px;">
+<img src="../_images/mate-theme/module/matetheme_maklermodul_modul_expose.png">
 
 ### Kopfbild-Modul
 
 Legen Sie ein Modul vom Typ **MaklerModul Kopfbild** entsprechend der [Dokumentation](https://docs.pdir.de/#/maklermodul/kopfbild_mit_uberschrift) an.
 
-<img src="../_images/mate-theme/module/matetheme_maklermodul_modul_kopfbild.png" style="max-width:300px;">
+<img src="../_images/mate-theme/module/matetheme_maklermodul_modul_kopfbild.png">
 
 ### Platzieren der Module
 
 Platzieren Sie die Module für die Listenansicht und das Exposé unter den jeweiligen Seiten in den Artikeln. Legen Sie für das Kopfbild noch einen weiteren Artikel an, der in der Kopfzeile platziert ist (über dem Artikel der Detailansicht).
 
-<img src="../_images/mate-theme/module/matetheme_maklermodul_artikel.png" style="max-width:300px;">
+<img src="../_images/mate-theme/module/matetheme_maklermodul_artikel.png">
 
 ## Beispiele
 

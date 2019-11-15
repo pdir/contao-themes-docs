@@ -2,7 +2,7 @@
 
 ---
 
-[![MATE Logo](../_images/mate-theme/mate_logo.png ':size=150')](mate-lizenz.md)
+[![MATE Logo](../_images/mate-theme/mate_logo.png#noborder ':size=150')](mate-lizenz.md)
 
 - [Weiter zur Dokumentation](/mate_theme/mate-lizenz.md)
 - [Kostenlos installieren oder Lizenz bestellen](https://contao-themes.net/theme-detail/mate.html)
@@ -11,7 +11,7 @@
 
 ---
 
-[![ODD Logo](../_images/odd-theme/odd_logo.png ':size=150')](odd_theme/odd-lizenz.md)
+[![ODD Logo](../_images/odd-theme/odd_logo.png#noborder ':size=150')](odd_theme/odd-lizenz.md)
 
 - [Weiter zur Dokumentation](/odd_theme/odd-lizenz.md)
 - [Kostenlos installieren oder Lizenz bestellen](https://contao-themes.net/theme-detail/odd.html)
@@ -20,7 +20,7 @@
 
 ---
 
-[![Nature Theme Logo](../_images/nature-theme/NATURE_Logo.svg ':size=150')](nature_theme/lizenz.md)
+[![Nature Theme Logo](../_images/nature-theme/NATURE_Logo.svg#noborder ':size=150')](nature_theme/lizenz.md)
 
 - [Weiter zur Dokumentation](/nature_theme/lizenz.md)
 - [Kostenlos installieren oder Lizenz bestellen](https://contao-themes.net/theme-detail/nature.html)

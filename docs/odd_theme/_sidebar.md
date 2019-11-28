@@ -8,9 +8,9 @@
   - [Layouts](odd_theme/odd-layouts.md)
   - [Elemente](odd_theme/odd-elemente.md)
   - [Module](odd_theme/odd-module.md)
-  - [Mehrsprachigkeit](odd_theme/odd-mehrsprachigkeit.md)
-  - [Maklermodul](odd_theme/odd-maklermodul.md)
   - [Andere Erweiterungen](odd_theme/odd-andere-erweiterungen.md)
+    - [Maklermodul](odd_theme/odd-maklermodul.md)
+    - [Mehrsprachigkeit](odd_theme/odd-mehrsprachigkeit.md)
 - [Nature Theme](nature_theme/index.md)
 
 ---

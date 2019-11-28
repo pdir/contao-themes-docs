@@ -11,6 +11,7 @@
   - [Module](nature_theme/module.md)
   - [Pagespeed-Optimierung](nature_theme/pagespeed.md)
   - [Andere Erweiterungen](nature_theme/andere-erweiterungen.md)
+    - [Maklermodul](nature_theme/maklermodul.md)
 
 ---
 

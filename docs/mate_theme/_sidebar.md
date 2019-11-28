@@ -9,11 +9,11 @@
   - [Module](mate_theme/mate-module.md)
   - [Contao-Elemente](mate_theme/mate-inhaltselemente.md)
   - [Theme-Elemente](mate_theme/mate-theme-elemente.md)
-  - [Mehrsprachigkeit](mate_theme/mate-mehrsprachigkeit.md)
   - [Andere Erweiterungen](mate_theme/mate-erweiterungen.md)
+    - [Maklermodul](mate_theme/maklermodul.md)
+    - [Mehrsprachigkeit](mate_theme/mate-mehrsprachigkeit.md)
   - [Sonstige Anpassungen](mate_theme/mate-sonstige-anpassungen.md)
   - [Update auf MATE Theme 2.0](mate_theme/mate-update-version-2.0.md)
-  - [Maklermodul](mate_theme/maklermodul.md)
 - [Odd Theme](odd_theme/index.md)
 - [Nature Theme](nature_theme/index.md)
 

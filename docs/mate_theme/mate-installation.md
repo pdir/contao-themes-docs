@@ -12,10 +12,29 @@ Die folgenden Schritte sind <strong>nur bei der ersten Installation</strong> not
 
 ### Mate Theme Bundle installieren
 
-Rufen Sie als erstes den Contao Manager über die folgende URL auf: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php). Wählen Sie die Schaltfläche **Pakete installieren** aus und geben im Suchfeld **mate theme** ein \(siehe Bild 1\). Installieren Sie das Bundle **contao-themes-net/mate-theme-bundle**, indem Sie auf den Button **Prüfen & Installieren** klicken und anschließend mit **Änderungen anwenden** die Installation starten. Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
+Je nachdem welche Version des Contao Managers Sie installiert haben, sehen die Bezeichnungen für die einzelnen
+Schaltflächen etwas anders aus. Daher haben wir zwei Anleitungen verfasst. Die Version finden Sie immer im Fußbereich
+ganz links.
 
-![](../_images/mate-theme/bundle-installieren.png)
-Bild 1: Mate Theme Bundle installieren
+#### Installation mit Contao Manager 1.1.x:
+1. Contao Manager aufrufen: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php)
+2. Bei allen vorhandenen Paketen auf **Aktualisieren** klicken. In dem Fall sind dies nur die Contao-Pakete. 
+Dieser Schritt ist nur bei Contao 4.8.x notwendig.
+3. Auf **Pakete suchen** klicken und im Eingabefeld nach **MATE Theme** suchen.
+4. Das Paket mit dem Namen **MATE Theme** hinzufügen.
+5. Im Fußbereich auf **Änderungen prüfen** und anschließend **Änderungen anwenden** klicken.
+6. Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. 
+Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
+
+#### Installation mit Contao Manager 1.2.x:
+1. Contao Manager aufrufen: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php)
+2. Bei allen vorhandenen Paketen auf **Aktualisieren** klicken. In dem Fall sind dies nur die Contao-Pakete. 
+Dieser Schritt ist nur bei Contao 4.8.x notwendig.
+3. Im Menü auf **Entdecken** klicken und im Eingabefeld nach **MATE Theme** suchen.
+4. Das Paket mit dem Namen **MATE Theme** hinzufügen.
+5. Im Menü auf **Pakete** klicken und im Fußbereich auf **Änderungen anwenden** klicken.
+6. Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. 
+Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 
 ### Theme-Dateien synchronisieren und Tabelle 'tl\_files' leeren
 

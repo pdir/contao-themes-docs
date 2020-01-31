@@ -16,6 +16,7 @@
   - [Update auf MATE Theme 2.0](mate_theme/mate-update-version-2.0.md)
 - [Odd Theme](odd_theme/index.md)
 - [Nature Theme](nature_theme/index.md)
+- [0.1 Theme](zeroone_theme/index.md)
 
 ---
 

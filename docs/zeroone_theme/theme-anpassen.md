@@ -15,7 +15,7 @@ Wenn das Theme erfolgreich installiert wurde, befinden sich die SCSS-Dateien in 
 normales CSS schreiben können, und die **_custom_variables.scss**.
 
 In der **_custom_variables.scss** können Sie die Farben und die Schriftart des Themes verändern und ein anderes 
-Farbschema auswählen. Wenn Sie eine Variable anpassen möchten, müssen Sie die Zeile auskommentieren 
+Farbschema auswählen. Wenn Sie eine Variable anpassen möchten, müssen Sie die Zeile entkommentieren 
 (Schrägstriche entfernen).
 
 Wenn Sie lieber mit CSS-Dateien statt mit SCSS-Dateien arbeiten wollen, können Sie über Themes - Stylesheets einen 
@@ -31,9 +31,9 @@ Möglichkeit andere Farbschemen zu aktivieren:
 * Helles Farbschema - Grün/Blau (EARTH)
 * Helles Farbschema - Rot/Blau (NIGHT)
 
-Wenn Sie auf ein Layout umstellen wollen, kommentieren Sie in der **\_custom\_variables.scss** die entsprechende Zeile 
-bei **Colour Schemes** aus (Schrägstriche entfernen). Gegebenenfalls müssen Sie die Seite mit Strg + F5 neuladen, 
-damit die Änderung greift.
+Um zu einem anderen Layout zu wechseln, entkommentieren (Schrägstriche entfernen) Sie bitte in der Datei 
+**_custom_variables.scss** im Abschnitt **Colour Schemes** die Zeile mit dem gewünschten Farbschema. Gegebenenfalls ist 
+es nötig, die Seite im Browser mit Strg + F5 neuzuladen, damit die Änderungen wirksam werden.
 
 Beispiel um das EARTH Farbschema zu aktivieren:
 
@@ -42,30 +42,34 @@ Beispiel um das EARTH Farbschema zu aktivieren:
 //@import '/colour_schemes/night';
 ```
 
+![Farbschemen](../_images/zeroone-theme/einrichtung/0.1_theme_colors.jpg)
+
 #### Dark Mode
 
-Bei vielen Geräten haben Sie die Möglichkeit den Dark Mode bzw. Dunkelmodus zu aktivieren, der die Benutzeroberfläche 
-in einen dunklen Hintergrund und den Text zur besseren Lesbarkeit in eine hellere Farbe ändert. Wenn Sie den Dark Mode 
-aktivieren wird im 0.1 Theme automatisch zu einem dunkleren Farbschema geändert, egal welches Farbschema Sie gerade 
-aktiv haben. Dies hat den Vorteil, dass nachts Ihre Augen weniger belastet werden und es besteht eine geringe Chance, 
-dass die Akkulaufzeit damit verbessert werden kann.
+Viele Geräte / Apps bieten mittlerweile die Möglichkeit einen Dark Mode bzw. Dunkelmodus zu aktivieren, der die 
+Benutzeroberfläche dunkel und den Text zur besseren Lesbarkeit hell darstellt. Wird der Dark Mode aktiviert, wechselt 
+das 0.1 Theme automatisch zu einem dunkleren Farbschema, egal welches Farbschema Sie gerade aktiviert haben. Dies hat 
+den Vorteil, dass die Augen weniger belastet werden und auch die Akkulaufzeit lässt sich durch die geringere 
+Beleuchtungsenergie verbessern.
 
-In der **_custom_variables.scss** können Sie den Dark Mode auch deaktivieren, indem Sie die entsprechende Zeile 
-einkommentieren (zwei Schrägstriche an den Anfang der Zeile).
+Sie können den Dark Mode auf Wunsch jedoch auch deaktivieren, indem Sie in der **_custom_variables.scss** die folgende 
+Zeile auskommentieren (zwei Schrägstriche an den Anfang der Zeile setzen):
 
 ```
 //@import '/colour_schemes/dark_mode';
 ```
 
-#### Anpassung der Bilder an des Farbschema
+#### Automatische Anpassung von Bildern an das Farbschema
 
-Die Bilder von News, Events und dem Parallax-Element werden farblich automatisch an das Farbschema angepasst. Außerdem 
-können Sie einem Bild-Element die Klasse **css-filter** mitgeben um das Bild entsprechend dem Theme farblich anzupassen.
+Im 0.1 Theme werden die Bilder von News, Events und dem Parallax-Element per CSS-Bildfilter automatisch farblich an das 
+gewählte Farbschema angepasst. Im Farbschema DAY erscheinen Bilder also gelb/orange, während im Schema NIGHT ein 
+violetter Filter über den Bildern liegt. Mit diesen Farbfiltern kann jedes beliebige Bild eingefärbt werden, indem Sie 
+das entsprechende Bild-Element mit der Klasse **css-filter** versehen.
 
-Sie können dies in der **_custom_variables.scss** deaktivieren, in dem Sie die folgende Zeile einkommentieren 
-(zwei Schrägstriche an den Anfang der Zeile).
+Die automatischen Farbfilter lassen sich jedoch auch deaktivieren. Kommentieren Sie hierzu in der Datei 
+**_custom_variables.scss** die folgende Zeile aus (zwei Schrägstriche an den Anfang der Zeile setzen).
 
-Bis auf den Internet Explorer funktioniert dies in allen Browsern.
+Dieses Feature wird in allen aktuellen Browsern (außer Internet Explorer) unterstützt.
 
 ```
 //@import '/colour_schemes/adjust_images';

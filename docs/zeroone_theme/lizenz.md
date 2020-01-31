@@ -6,7 +6,7 @@ Die kostenpflichtige Lizenz können Sie auf [contao-themes.net](https://contao-t
 erwerben. Hierfür wählen Sie bitte die Option **ohne Copyright-Hinweis** aus, tragen Ihre gewünschte Domain ein und 
 klicken anschließend den Button **In den Warenkorb**. Gehen Sie danach zur Kasse und folgen Sie den weiteren Schritten.
 
-Nach erfolgreicher Zahlung erhalten Sie von uns per E-Mail eine Rechnung und werden Ihre Domain in Kürze freischalten, 
+Nach erfolgreicher Zahlung (mögliche Zahlarten sind Paypal, Sofortüberweisung oder Kreditkarte) erhalten Sie von uns per E-Mail eine Rechnung und werden Ihre Domain in Kürze freischalten, 
 sodass Sie diese im Contao Backend registrieren können.
 
 Bis dahin können Sie das Theme jedoch bereits mit Copyright-Hinweis [installieren](zeroone_theme/installation.md) und 

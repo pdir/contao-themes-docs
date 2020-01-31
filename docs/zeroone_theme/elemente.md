@@ -1,9 +1,9 @@
 # Elemente
 
-Auf dieser Seite sind alle Elemente, die das Theme mitliefert oder anzupassen sind, erklärt und wie Sie diese 
+Im Folgenden werden alle Elemente des 0.1 Themes einzeln erläutert und zudem wird beschrieben, wie genau Sie diese 
 einsetzen können.
 
-Folgende Elemente werden auf dieser Seite erklärt:
+Folgende Elemente werden auf dieser Seite vorgestellt:
 - [Buttons](zeroone_theme/elemente?id=buttons)
 - [Formulare](zeroone_theme/elemente?id=formulare)
 - [Grid](zeroone_theme/elemente?id=grid)
@@ -59,7 +59,7 @@ unter Template-Einstellungen auswählen müssen, wenn die Felder wie in der Them
 Das Theme basiert auf [Spectre CSS](https://picturepan2.github.io/spectre/layout/grid.html), womit Sie u. a. 
 Elemente ganz einfach nebeneinander und gleichzeitig für mobile Geräte in einer Spalte darstellen können.
 
-#### Platzieren des Inhaltscontainer
+#### Platzieren des Inhaltscontainers
 
 Um beispielsweise zwei Textelemente nebeneinander darzustellen, fügen Sie zuerst jeweils ein Element vom Typ **Contao 
 Themes (Inhaltscontainer Anfang)** und Contao Themes **(Inhaltscontainer Ende)** hinzu.
@@ -71,7 +71,7 @@ bekommen.
 
 ![Col-Attribut columns hinzufügen](../_images/nature-theme/elemente/advanced-classes-columns.png)
 
-#### Erweiterte CSS-Klassen
+#### Platzieren der Inhaltselemente
 
 Zwischen den Umschlagselementen platzieren Sie die Elemente, die Sie nebeneinander darstellen möchten. Dabei müssen 
 Sie unter Erweiterte CSS-Klassen das Col-Attribut .column auswählen.

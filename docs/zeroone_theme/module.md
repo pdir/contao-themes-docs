@@ -1,8 +1,9 @@
 # Module
 
-Auf dieser Seite sind alle Module, die das Theme mitliefert oder anzupassen sind, erklärt und wie Sie diese einsetzen können.
+Im Folgenden werden alle Module des 0.1 Themes einzeln erläutert und zudem wird beschrieben, wie genau Sie diese 
+einsetzen können. 
 
-Folgende Module werden auf dieser Seite erklärt:
+Folgende Module werden auf dieser Seite vorgestellt:
 - [Events](zeroone_theme/module?id=events)
 - [Kalender](zeroone_theme/module?id=kalender)
 - [News](zeroone_theme/module?id=news)
@@ -18,7 +19,7 @@ Befolgen Sie folgende Schritte um eine Eventliste zu platzieren:
 * Modul **Eventliste** (unter Events) auswählen
 * Einstellungen vornehmen (Kalender, Anzahl Events etc.)
 * Event-Template auswählen (Template-Einstellungen)
- * `event_teaser_zeroone` (Eventliste mit Bilder)
+ * `event_teaser_zeroone` (Eventliste mit Bildern)
  * `event_list_zeroone` (Eventliste ohne Bilder)
  * `event_upcoming` (einfache Eventliste nur mit Datum und Titel)
 * Individuelles Template `mod_eventlist_zeroone` auswählen (Template-Einstellungen)
@@ -57,7 +58,7 @@ Befolgen Sie folgende Schritte um eine Newsliste zu platzieren:
 * Modul **Nachrichtenliste** (unter Nachrichten) auswählen
 * Einstellungen vornehmen (Archiv, Anzahl Beiträge etc.)
 * Nachrichtentemplate auswählen (Template-Einstellungen)
- * `news_latest_zeroone` (Newsliste mit Bilder)
+ * `news_latest_zeroone` (Newsliste mit Bildern)
  * `news_short_zeroone` (Newsliste ohne Bilder)
  * `news_simple` (einfache Newsliste nur mit Datum/Autor und Titel)
 * Individuelles Template `mod_newslist_zeroone` auswählen (Template-Einstellungen)

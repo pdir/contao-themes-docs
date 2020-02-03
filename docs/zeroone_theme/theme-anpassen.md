@@ -8,6 +8,12 @@ Die Inhalte des Footers können Sie in den Artikeln unter **Elemente** > **03 Fo
 
 ![Header und Footer Inhalte anpassen](../_images/zeroone-theme/einrichtung/header_footer_artikel.png)
 
+## Kontaktformular
+
+Wenn Sie die Anfragen des Kontaktformulars per E-Mail erhalten möchten, wählen Sie in der linken Navigation 
+**Formulargenerator** aus und bearbeiten die Einstellungen des Formulars (das zweite Icon). Unter 
+**Formulardaten versenden** tauschen Sie anschließend die E-Mail-Adresse aus.
+
 ## Styling anpassen
 
 Wenn das Theme erfolgreich installiert wurde, befinden sich die SCSS-Dateien in der Dateiverwaltung unter dem Pfad 

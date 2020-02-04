@@ -22,6 +22,8 @@ Rufen Sie als erstes den Contao Manager über die folgende URL auf:
 **contao-themes-net/zero-one-theme-bundle** hinzu, navigieren zum Menüpunkt **Pakete** und klicken ganz unten auf den 
 Button **Änderungen anwenden**. Jetzt sollte die Installation starten.
 
+<img src="../_images/zeroone-theme/installation/theme_installieren_1.png" style="width: 49%;margin-right:1%;display:inline-block;"><img src="../_images/zeroone-theme/installation/theme_installieren_2.png" style="width: 49%;margin-left:1%;display:inline-block;">
+
 ### 2 / Datenbank aktualisieren
 
 Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen 

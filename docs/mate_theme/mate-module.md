@@ -4,6 +4,7 @@
 Alle Module sind bereits auf der Seite **Module** beispielhaft eingebunden.
 
 Folgende Elemente werden auf dieser Seite erklärt:
+- [Breadcrumb](mate_theme/mate-module?id=breadcrumb)
 - [Events](mate_theme/mate-module?id=events)
 - [Formulare](mate_theme/mate-module?id=formulare)
 - [Login-Formular](mate_theme/mate-module?id=login-formular)
@@ -11,6 +12,23 @@ Folgende Elemente werden auf dieser Seite erklärt:
 - [Navigation](mate_theme/mate-module?id=navigation)
 - [News](mate_theme/mate-module?id=news)
 - [Suche](mate_theme/mate-module?id=suche)
+
+## Breadcrumb
+
+Um eine Breadcrumb hinzuzufügen, legen Sie unter **Themes > Frontend-Module des Theme bearbeiten** (Zahnrad-Icon) 
+ein neues Modul vom Typ **Navigationspfad** an. Bei Individuelles Template muss **mod_breadcrumb_mate** ausgewählt werden.
+
+![](../_images/mate-theme/module/breadcrumb_modul.png)
+
+Danach navigieren Sie wieder zu **Themes** und bearbeiten die **Seitenlayouts** des Themes (rechts neben dem 
+Zahnrad-Icon). Unter **Frontend-Module - Eingebundene Module** fügen Sie eine neue Zeile ein, indem Sie auf das grüne 
+Plus klicken. Beim Modul wählen Sie das eben angelegte **Modul** und bei Layoutbereich **Kopfzeile** aus.
+
+![](../_images/mate-theme/module/breadcrumb_layout.png)
+
+Am Ende sollte die Breadcrumb wie im folgenden Beispiel aussehen.
+
+![](../_images/mate-theme/module/breadcrumb_beispiel.png)
 
 ## Events
 

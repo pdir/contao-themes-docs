@@ -105,3 +105,6 @@ aus (Schrägstriche entfernen).
 | $footer-color-1 | Schriftfarbe des oberen Footer-Bereich |
 | $footer-background-2 | Hintergrundfarbe des unteren Footer-Bereich (Copyright) |
 | $footer-color-2 | Schriftfarbe des unteren Footer-Bereich (Copyright) |
+| | |
+| $border-radius | Rahmen mit abgerundeten Ecken für Buttons, Formulare, Navigation etc. - mögliche Werte z. B. 10px, 100% oder 0px (ohne abgerundete Ecken). |
+| $mobile-navbar-breakpoint | Breakpoint, an dem die mobile Navigation mit dem Burger-Icon dargestellt wird - Standard-Wert: 960px |

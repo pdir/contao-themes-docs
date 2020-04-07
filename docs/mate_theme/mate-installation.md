@@ -18,7 +18,8 @@ ganz links.
 
 #### Installation mit Contao Manager 1.1.x:
 1. Contao Manager aufrufen: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php)
-2. Bei allen vorhandenen Paketen auf **Aktualisieren** klicken. In dem Fall sind dies nur die Contao-Pakete.
+2. Bei allen vorhandenen Paketen auf **Aktualisieren** klicken. In dem Fall sind dies nur die Contao-Pakete. Danach 
+noch **NICHT** auf Änderungen anwenden klicken, sondern erst die nächsten Schritte befolgen.
 3. Auf **Pakete suchen** klicken und im Eingabefeld nach **MATE Theme** suchen.
 4. Das Paket mit dem Namen **MATE Theme** hinzufügen.
 5. Im Fußbereich auf **Änderungen prüfen** und anschließend **Änderungen anwenden** klicken.
@@ -27,7 +28,8 @@ Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 
 #### Installation mit Contao Manager 1.2.x:
 1. Contao Manager aufrufen: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php)
-2. Bei allen vorhandenen Paketen auf **Aktualisieren** klicken. In dem Fall sind dies nur die Contao-Pakete.
+2. Bei allen vorhandenen Paketen auf **Aktualisieren** klicken. In dem Fall sind dies nur die Contao-Pakete. Danach 
+noch **NICHT** auf Änderungen anwenden klicken, sondern erst die nächsten Schritte befolgen.
 3. Im Menü auf **Entdecken** klicken und im Eingabefeld nach **MATE Theme** suchen.
 4. Das Paket mit dem Namen **MATE Theme** hinzufügen.
 5. Im Menü auf **Pakete** klicken und im Fußbereich auf **Änderungen anwenden** klicken.

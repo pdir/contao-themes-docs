@@ -94,3 +94,28 @@ In der **\_custom\_variables.scss** sind bereits diverse Variablen definiert um 
 [Unterseiten-Navigation](https://bulma.io/documentation/components/menu/#variables)  
 [Tabellen](https://bulma.io/documentation/elements/table/#variables)  
 [Tabs](https://bulma.io/documentation/components/tabs/#variables)  
+
+## Schriftart einbinden
+
+Um eine Schriftart einzubinden, fügen Sie in der **_custom_variables.scss** ganz am Anfang z. B. folgenden CSS-Code ein. 
+Ersetzen Sie den Namen und die Pfade der Schriftart. Der Pfad muss immer mit einem **/** beginnen.
+
+```
+@font-face {
+	font-family: "Beispiel-Font";
+	font-style: normal;
+	font-weight: normal;
+	src: url("/files/naturetheme/fonts/font.woff"),
+	url("/files/naturetheme/fonts/font.ttf"),
+	url("/files/naturetheme/fonts/font.svg");
+}
+```
+
+Am Anfang der Datei sind zwei Variablen zum Anpassen der Schriftart definiert ($family-primary: Anpassen der 
+Hauptschriftart, $family-heading: Schriftart nur für Überschriften anpassen). Kommentieren Sie eine Zeile aus (Schrägstriche entfernen) und fügen den Namen der 
+Schriftart am Anfang hinzu.
+
+```
+$family-primary: 'Beispiel-Font', 'Roboto', sans-serif;
+$family-heading: 'Beispiel-Font', 'Roboto Slab', sans-serif;
+```

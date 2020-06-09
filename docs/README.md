@@ -1,5 +1,7 @@
 # contao-themes.net - Dokumentation
 
+Please use the url of the new documentation https://pdir.de/docs/de/contao/themes/
+
 ---
 
 [![MATE Logo](../_images/mate-theme/mate_logo.png#noborder ':size=150')](mate-lizenz.md)
